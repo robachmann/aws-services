@@ -41,7 +41,8 @@ for json_obj in json_dict['items']:
     service_product_name = additional_fields.get('productName')
     service_category = additional_fields.get('productCategory')
     service_launch_date = additional_fields.get('launchDate')
-    service_summary = additional_fields.get('productSummary').removesuffix("\r\n")
+    service_summary = additional_fields.get('productSummary').replace("\r", "") \
+        .replace("\n", "").replace("<p>", "").replace("</p>", "")
     service_url = additional_fields.get('productUrl').removesuffix("?did=ap_card&trk=ap_card")
     service = Service(service_name, service_product_name, service_category,
                       service_launch_date, service_summary, service_url)

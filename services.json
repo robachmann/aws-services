@@ -32,7 +32,7 @@
     "product_name": "Amazon DataZone (Preview)",
     "category": "Analytics",
     "date": "2022-11-29",
-    "summary": "<p>Unlock data across organizational boundaries with built-in governance</p>",
+    "summary": "Unlock data across organizational boundaries with built-in governance",
     "url": "https://aws.amazon.com/datazone/"
   },
   {
@@ -122,7 +122,7 @@
     "product_name": "AWS Clean Rooms (Preview)",
     "category": "Analytics",
     "date": "2022-11-29",
-    "summary": "<p>Match, analyze, and collaborate on datasets&ndash;without sharing or revealing underlying data</p>",
+    "summary": "Match, analyze, and collaborate on datasets&ndash;without sharing or revealing underlying data",
     "url": "https://aws.amazon.com/clean-rooms/"
   },
   {
@@ -239,7 +239,7 @@
     "product_name": "Amazon WorkMail",
     "category": "Business Applications",
     "date": "2016-01-04",
-    "summary": "<p>Secure email and calendaring</p>",
+    "summary": "Secure email and calendaring",
     "url": "https://aws.amazon.com/workmail/"
   },
   {
@@ -248,7 +248,7 @@
     "product_name": "Amazon WorkDocs",
     "category": "Business Applications",
     "date": "2015-01-28",
-    "summary": "<p>Secure enterprise document storage and sharing</p>",
+    "summary": "Secure enterprise document storage and sharing",
     "url": "https://aws.amazon.com/workdocs/"
   },
   {
@@ -257,7 +257,7 @@
     "product_name": "Alexa for Business",
     "category": "Business Applications",
     "date": "2017-11-30",
-    "summary": "<p>Empower your organization with Alexa</p>",
+    "summary": "Empower your organization with Alexa",
     "url": "https://aws.amazon.com/alexaforbusiness/"
   },
   {
@@ -266,7 +266,7 @@
     "product_name": "Amazon Connect",
     "category": "Business Applications",
     "date": "2017-03-28",
-    "summary": "<p>Omnichannel cloud contact center</p>",
+    "summary": "Omnichannel cloud contact center",
     "url": "https://aws.amazon.com/connect/"
   },
   {
@@ -275,7 +275,7 @@
     "product_name": "Amazon Chime SDK",
     "category": "Business Applications",
     "date": "2019-11-21",
-    "summary": "<p>Real-time messaging, audio, video, and screen sharing&nbsp;</p>",
+    "summary": "Real-time messaging, audio, video, and screen sharing&nbsp;",
     "url": "https://aws.amazon.com/chime/chime-sdk/"
   },
   {
@@ -284,7 +284,7 @@
     "product_name": "Amazon Chime",
     "category": "Business Applications",
     "date": "2017-02-13",
-    "summary": "<p>Frustration-free meetings, video calls, and chat</p>",
+    "summary": "Frustration-free meetings, video calls, and chat",
     "url": "https://aws.amazon.com/chime/"
   },
   {
@@ -293,7 +293,7 @@
     "product_name": "Amazon Honeycode",
     "category": "Business Applications",
     "date": "2020-06-24",
-    "summary": "<p>Build mobile &amp; web apps without programming</p>",
+    "summary": "Build mobile &amp; web apps without programming",
     "url": "https://aws.amazon.com/honeycode/"
   },
   {
@@ -365,7 +365,7 @@
     "product_name": "AWS SimSpace Weaver",
     "category": "Compute",
     "date": "2022-11-29",
-    "summary": "<p>Build dynamic, large-scale spatial simulations on AWS managed infrastructure</p>",
+    "summary": "Build dynamic, large-scale spatial simulations on AWS managed infrastructure",
     "url": "https://aws.amazon.com/simspaceweaver/"
   },
   {
@@ -572,7 +572,7 @@
     "product_name": "Amazon DocumentDB",
     "category": "Databases",
     "date": "2019-01-08",
-    "summary": "<p>Fully managed document database</p>",
+    "summary": "Fully managed document database",
     "url": "https://aws.amazon.com/documentdb/"
   },
   {
@@ -590,7 +590,7 @@
     "product_name": "Amazon MemoryDB for Redis",
     "category": "Databases",
     "date": "2021-08-19",
-    "summary": "<p>Redis-compatible, durable, in-memory database service for ultra-fast performance</p>",
+    "summary": "Redis-compatible, durable, in-memory database service for ultra-fast performance",
     "url": "https://aws.amazon.com/memorydb/"
   },
   {
@@ -608,7 +608,7 @@
     "product_name": "Amazon Neptune",
     "category": "Databases",
     "date": "2018-05-30",
-    "summary": "<p>Fully managed graph database service</p>",
+    "summary": "Fully managed graph database service",
     "url": "https://aws.amazon.com/neptune/"
   },
   {
@@ -788,7 +788,7 @@
     "product_name": "Amazon WorkSpaces Family",
     "category": "End User Computing",
     "date": "2014-03-26",
-    "summary": "<p>Virtual desktop services for every use case</p>\n",
+    "summary": "Virtual desktop services for every use case",
     "url": "https://aws.amazon.com/workspaces/"
   },
   {
@@ -815,7 +815,7 @@
     "product_name": "Amazon Simple Email Service (SES)",
     "category": "Front-End Web & Mobile",
     "date": "2011-01-25",
-    "summary": "<p>High-scale inbound and outbound email</p>",
+    "summary": "High-scale inbound and outbound email",
     "url": "https://aws.amazon.com/ses/"
   },
   {
@@ -842,7 +842,7 @@
     "product_name": "Amazon Pinpoint",
     "category": "Front-End Web & Mobile",
     "date": "2016-12-01",
-    "summary": "<p>Multichannel marketing communications</p>",
+    "summary": "Multichannel marketing communications",
     "url": "https://aws.amazon.com/pinpoint/"
   },
   {
@@ -860,7 +860,7 @@
     "product_name": "AWS Amplify",
     "category": "Front-End Web & Mobile",
     "date": "2017-11-21",
-    "summary": "<p>Build, deploy, host, and manage scalable web and mobile apps</p>",
+    "summary": "Build, deploy, host, and manage scalable web and mobile apps",
     "url": "https://aws.amazon.com/amplify/"
   },
   {
@@ -1319,7 +1319,7 @@
     "product_name": "Amazon CodeWhisperer",
     "category": "Machine Learning",
     "date": "2023-04-13",
-    "summary": "<p>Build apps faster with ML-powered coding companion</p>\n",
+    "summary": "Build apps faster with ML-powered coding companion",
     "url": "https://aws.amazon.com/codewhisperer/"
   },
   {
@@ -1328,7 +1328,7 @@
     "product_name": "Amazon Bedrock",
     "category": "Machine Learning",
     "date": null,
-    "summary": "<p>Build with foundation models</p>\n",
+    "summary": "Build with foundation models",
     "url": "https://aws.amazon.com/bedrock/"
   },
   {
@@ -1445,7 +1445,7 @@
     "product_name": "AWS Service Management Connector",
     "category": "Management & Governance",
     "date": "2022-09-14",
-    "summary": "<p>Provision, manage and operate AWS resources within Service Management Tools</p>\n",
+    "summary": "Provision, manage and operate AWS resources within Service Management Tools",
     "url": "https://aws.amazon.com/service-management-connector/"
   },
   {
@@ -1652,7 +1652,7 @@
     "product_name": "AWS Mainframe Modernization",
     "category": "Migration",
     "date": "2021-11-30",
-    "summary": "<p>Migrate, modernize, operate, and run mainframe workloads</p>\n",
+    "summary": "Migrate, modernize, operate, and run mainframe workloads",
     "url": "https://aws.amazon.com/mainframe-modernization/"
   },
   {
@@ -1697,7 +1697,7 @@
     "product_name": "AWS Application Migration Service (MGN)",
     "category": "Migration",
     "date": "2019-06-11",
-    "summary": "<p>Automate application migration and modernization</p>",
+    "summary": "Automate application migration and modernization",
     "url": "https://aws.amazon.com/application-migration-service/"
   },
   {
@@ -1967,7 +1967,7 @@
     "product_name": "AWS IAM Identity Center",
     "category": "Security, Identity, & Compliance",
     "date": null,
-    "summary": "<p>Manage single sign-on access to AWS accounts and apps</p>\n",
+    "summary": "Manage single sign-on access to AWS accounts and apps",
     "url": "https://aws.amazon.com/iam/identity-center/"
   },
   {
@@ -2048,7 +2048,7 @@
     "product_name": "Amazon Macie",
     "category": "Security, Identity, & Compliance",
     "date": "2017-08-14",
-    "summary": "<p>Discover and protect your sensitive data at scale</p>\n",
+    "summary": "Discover and protect your sensitive data at scale",
     "url": "https://aws.amazon.com/macie/"
   },
   {
@@ -2075,7 +2075,7 @@
     "product_name": "AWS Elastic Disaster Recovery (DRS)",
     "category": "Storage",
     "date": "2019-10-31",
-    "summary": "<p>Scalable, cost-effective application recovery to AWS</p>",
+    "summary": "Scalable, cost-effective application recovery to AWS",
     "url": "https://aws.amazon.com/disaster-recovery/"
   },
   {

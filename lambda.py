@@ -16,6 +16,11 @@ class Service:
     url: str
 
     def __init__(self, name, product_name, category, date, summary, url):
+        self.id = name.replace(" ", "") \
+            .replace("-", "") \
+            .lower() \
+            .replace("amazon", "") \
+            .replace("aws", "")
         self.name = name
         self.product_name = product_name
         self.category = category

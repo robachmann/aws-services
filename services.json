@@ -1,5 +1,6 @@
 [
   {
+    "id": "glue",
     "name": "aws-glue",
     "product_name": "AWS Glue",
     "category": "Analytics",
@@ -8,6 +9,7 @@
     "url": "https://aws.amazon.com/glue/"
   },
   {
+    "id": "athena",
     "name": "amazon-athena",
     "product_name": "Amazon Athena",
     "category": "Analytics",
@@ -16,6 +18,7 @@
     "url": "https://aws.amazon.com/athena/"
   },
   {
+    "id": "datapipeline",
     "name": "aws-data-pipeline",
     "product_name": "AWS Data Pipeline",
     "category": "Analytics",
@@ -24,6 +27,7 @@
     "url": "https://aws.amazon.com/datapipeline/"
   },
   {
+    "id": "datazone",
     "name": "amazon-datazone",
     "product_name": "Amazon DataZone (Preview)",
     "category": "Analytics",
@@ -32,6 +36,7 @@
     "url": "https://aws.amazon.com/datazone/"
   },
   {
+    "id": "finspace",
     "name": "amazon-finspace",
     "product_name": "Amazon FinSpace",
     "category": "Analytics",
@@ -40,6 +45,7 @@
     "url": "https://aws.amazon.com/finspace/"
   },
   {
+    "id": "lakeformation",
     "name": "aws-lake-formation",
     "product_name": "AWS Lake Formation",
     "category": "Analytics",
@@ -48,6 +54,7 @@
     "url": "https://aws.amazon.com/lake-formation/"
   },
   {
+    "id": "kinesis",
     "name": "amazon-kinesis",
     "product_name": "Amazon Kinesis",
     "category": "Analytics",
@@ -56,6 +63,7 @@
     "url": "https://aws.amazon.com/kinesis/"
   },
   {
+    "id": "cloudsearch",
     "name": "amazon-cloudsearch",
     "product_name": "Amazon CloudSearch",
     "category": "Analytics",
@@ -64,6 +72,7 @@
     "url": "https://aws.amazon.com/cloudsearch/"
   },
   {
+    "id": "emr",
     "name": "amazon-emr",
     "product_name": "Amazon EMR",
     "category": "Analytics",
@@ -72,6 +81,7 @@
     "url": "https://aws.amazon.com/emr/"
   },
   {
+    "id": "dataexchange",
     "name": "aws-data-exchange",
     "product_name": "AWS Data Exchange",
     "category": "Analytics",
@@ -80,6 +90,7 @@
     "url": "https://aws.amazon.com/data-exchange/"
   },
   {
+    "id": "quicksight",
     "name": "amazon-quicksight",
     "product_name": "Amazon QuickSight",
     "category": "Analytics",
@@ -88,6 +99,7 @@
     "url": "https://aws.amazon.com/quicksight/"
   },
   {
+    "id": "managedstreamingforapachekafka",
     "name": "amazon-managed-streaming-for-apache-kafka",
     "product_name": "Amazon Managed Streaming for Apache Kafka (MSK)",
     "category": "Analytics",
@@ -96,6 +108,7 @@
     "url": "https://aws.amazon.com/msk/"
   },
   {
+    "id": "opensearchservice",
     "name": "amazon-opensearch-service",
     "product_name": "Amazon OpenSearch Service",
     "category": "Analytics",
@@ -104,6 +117,7 @@
     "url": "https://aws.amazon.com/opensearch-service/"
   },
   {
+    "id": "cleanrooms",
     "name": "aws-clean-rooms",
     "product_name": "AWS Clean Rooms (Preview)",
     "category": "Analytics",
@@ -112,6 +126,7 @@
     "url": "https://aws.amazon.com/clean-rooms/"
   },
   {
+    "id": "managedworkflowsforapacheairflow",
     "name": "amazon-managed-workflows-for-apache-airflow",
     "product_name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
     "category": "Application Integration",
@@ -120,6 +135,7 @@
     "url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/"
   },
   {
+    "id": "eventbridge",
     "name": "amazon-eventbridge",
     "product_name": "Amazon EventBridge",
     "category": "Application Integration",
@@ -128,6 +144,7 @@
     "url": "https://aws.amazon.com/eventbridge/"
   },
   {
+    "id": "simplenotificationservicesns",
     "name": "amazon-simple-notification-service-sns",
     "product_name": "Amazon Simple Notification Service (SNS)",
     "category": "Application Integration",
@@ -136,6 +153,7 @@
     "url": "https://aws.amazon.com/sns/"
   },
   {
+    "id": "appflow",
     "name": "amazon-appflow",
     "product_name": "Amazon AppFlow",
     "category": "Application Integration",
@@ -144,6 +162,7 @@
     "url": "https://aws.amazon.com/appflow/"
   },
   {
+    "id": "simplequeueservicesqs",
     "name": "amazon-simple-queue-service-sqs",
     "product_name": "Amazon Simple Queue Service (SQS)",
     "category": "Application Integration",
@@ -152,6 +171,7 @@
     "url": "https://aws.amazon.com/sqs/"
   },
   {
+    "id": "stepfunctions",
     "name": "aws-step-functions",
     "product_name": "AWS Step Functions",
     "category": "Application Integration",
@@ -160,6 +180,7 @@
     "url": "https://aws.amazon.com/step-functions/"
   },
   {
+    "id": "mq",
     "name": "amazon-mq",
     "product_name": "Amazon MQ",
     "category": "Application Integration",
@@ -168,6 +189,7 @@
     "url": "https://aws.amazon.com/amazon-mq/"
   },
   {
+    "id": "wellarchitectedtool",
     "name": "aws-well-architected-tool",
     "product_name": "AWS Well-Architected Tool",
     "category": "Architecture Strategy",
@@ -176,6 +198,7 @@
     "url": "https://aws.amazon.com/well-architected-tool/"
   },
   {
+    "id": "managedblockchain",
     "name": "amazon-managed-blockchain",
     "product_name": "Amazon Managed Blockchain",
     "category": "Blockchain",
@@ -184,6 +207,7 @@
     "url": "https://aws.amazon.com/managed-blockchain/"
   },
   {
+    "id": "quantumledgerdatabaseqldb",
     "name": "amazon-quantum-ledger-database-qldb",
     "product_name": "Amazon Quantum Ledger Database (QLDB)",
     "category": "Blockchain",
@@ -192,6 +216,7 @@
     "url": "https://aws.amazon.com/qldb/"
   },
   {
+    "id": "supplychain",
     "name": "aws-supply-chain",
     "product_name": "AWS Supply Chain (Preview)",
     "category": "Business Applications",
@@ -200,6 +225,7 @@
     "url": "https://aws.amazon.com/aws-supply-chain/"
   },
   {
+    "id": "wickr",
     "name": "aws-wickr",
     "product_name": "AWS Wickr",
     "category": "Business Applications",
@@ -208,6 +234,7 @@
     "url": "https://aws.amazon.com/wickr/"
   },
   {
+    "id": "workmail",
     "name": "amazon-workmail",
     "product_name": "Amazon WorkMail",
     "category": "Business Applications",
@@ -216,6 +243,7 @@
     "url": "https://aws.amazon.com/workmail/"
   },
   {
+    "id": "workdocs",
     "name": "amazon-workdocs",
     "product_name": "Amazon WorkDocs",
     "category": "Business Applications",
@@ -224,6 +252,7 @@
     "url": "https://aws.amazon.com/workdocs/"
   },
   {
+    "id": "alexaforbusiness",
     "name": "alexa-for-business",
     "product_name": "Alexa for Business",
     "category": "Business Applications",
@@ -232,6 +261,7 @@
     "url": "https://aws.amazon.com/alexaforbusiness/"
   },
   {
+    "id": "connect",
     "name": "amazon-connect",
     "product_name": "Amazon Connect",
     "category": "Business Applications",
@@ -240,6 +270,7 @@
     "url": "https://aws.amazon.com/connect/"
   },
   {
+    "id": "chimesdk",
     "name": "amazon-chime-sdk",
     "product_name": "Amazon Chime SDK",
     "category": "Business Applications",
@@ -248,6 +279,7 @@
     "url": "https://aws.amazon.com/chime/chime-sdk/"
   },
   {
+    "id": "chime",
     "name": "amazon-chime",
     "product_name": "Amazon Chime",
     "category": "Business Applications",
@@ -256,6 +288,7 @@
     "url": "https://aws.amazon.com/chime/"
   },
   {
+    "id": "honeycode",
     "name": "amazon-honeycode",
     "product_name": "Amazon Honeycode",
     "category": "Business Applications",
@@ -264,6 +297,7 @@
     "url": "https://aws.amazon.com/honeycode/"
   },
   {
+    "id": "savingsplans",
     "name": "savings-plans",
     "product_name": "Savings Plans",
     "category": "Cloud Financial Management",
@@ -272,6 +306,7 @@
     "url": "https://aws.amazon.com/savingsplans/"
   },
   {
+    "id": "reservedinstancereporting",
     "name": "reserved-instance-reporting",
     "product_name": "Reserved Instance (RI) Reporting",
     "category": "Cloud Financial Management",
@@ -280,6 +315,7 @@
     "url": "https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/"
   },
   {
+    "id": "costandusagereport",
     "name": "aws-cost-and-usage-report",
     "product_name": "AWS Cost and Usage Report",
     "category": "Cloud Financial Management",
@@ -288,6 +324,7 @@
     "url": "https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/"
   },
   {
+    "id": "costexplorer",
     "name": "aws-cost-explorer",
     "product_name": "AWS Cost Explorer",
     "category": "Cloud Financial Management",
@@ -296,6 +333,7 @@
     "url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/"
   },
   {
+    "id": "budgets",
     "name": "aws-budgets",
     "product_name": "AWS Budgets",
     "category": "Cloud Financial Management",
@@ -304,6 +342,7 @@
     "url": "https://aws.amazon.com/aws-cost-management/aws-budgets/"
   },
   {
+    "id": "apprunner",
     "name": "aws-app-runner",
     "product_name": "AWS App Runner",
     "category": "Compute",
@@ -312,6 +351,7 @@
     "url": "https://aws.amazon.com/apprunner/"
   },
   {
+    "id": "computeoptimizer",
     "name": "aws-compute-optimizer",
     "product_name": "AWS Compute Optimizer",
     "category": "Compute",
@@ -320,6 +360,7 @@
     "url": "https://aws.amazon.com/compute-optimizer/"
   },
   {
+    "id": "simspaceweaver",
     "name": "aws-simspace-weaver",
     "product_name": "AWS SimSpace Weaver",
     "category": "Compute",
@@ -328,6 +369,7 @@
     "url": "https://aws.amazon.com/simspaceweaver/"
   },
   {
+    "id": "vmwarecloudon",
     "name": "vmware-cloud-on-aws",
     "product_name": "VMware Cloud on AWS",
     "category": "Compute",
@@ -336,6 +378,7 @@
     "url": "https://aws.amazon.com/vmware/"
   },
   {
+    "id": "serverlessapplicationrepository",
     "name": "aws-serverless-application-repository",
     "product_name": "AWS Serverless Application Repository",
     "category": "Compute",
@@ -344,6 +387,7 @@
     "url": "https://aws.amazon.com/serverless/serverlessrepo/"
   },
   {
+    "id": "ec2autoscaling",
     "name": "amazon-ec2-auto-scaling",
     "product_name": "Amazon EC2 Auto Scaling",
     "category": "Compute",
@@ -352,6 +396,7 @@
     "url": "https://aws.amazon.com/ec2/autoscaling/"
   },
   {
+    "id": "localzones",
     "name": "local-zones",
     "product_name": "AWS Local Zones",
     "category": "Compute",
@@ -360,6 +405,7 @@
     "url": "https://aws.amazon.com/about-aws/global-infrastructure/localzones/"
   },
   {
+    "id": "lambda",
     "name": "aws-lambda",
     "product_name": "AWS Lambda",
     "category": "Compute",
@@ -368,6 +414,7 @@
     "url": "https://aws.amazon.com/lambda/"
   },
   {
+    "id": "elasticbeanstalk",
     "name": "aws-elastic-beanstalk",
     "product_name": "AWS Elastic Beanstalk",
     "category": "Compute",
@@ -376,6 +423,7 @@
     "url": "https://aws.amazon.com/elasticbeanstalk/"
   },
   {
+    "id": "batch",
     "name": "aws-batch",
     "product_name": "AWS Batch",
     "category": "Compute",
@@ -384,6 +432,7 @@
     "url": "https://aws.amazon.com/batch/"
   },
   {
+    "id": "ec2",
     "name": "amazon-ec2",
     "product_name": "Amazon EC2",
     "category": "Compute",
@@ -392,6 +441,7 @@
     "url": "https://aws.amazon.com/ec2/"
   },
   {
+    "id": "autoscaling",
     "name": "aws-auto-scaling",
     "product_name": "AWS Auto Scaling",
     "category": "Compute",
@@ -400,6 +450,7 @@
     "url": "https://aws.amazon.com/autoscaling/"
   },
   {
+    "id": "ec2spotinstances",
     "name": "amazon-ec2-spot-instances",
     "product_name": "Amazon EC2 Spot Instances",
     "category": "Compute",
@@ -408,6 +459,7 @@
     "url": "https://aws.amazon.com/ec2/spot/"
   },
   {
+    "id": "wavelength",
     "name": "aws-wavelength",
     "product_name": "AWS Wavelength",
     "category": "Compute",
@@ -416,6 +468,7 @@
     "url": "https://aws.amazon.com/wavelength/"
   },
   {
+    "id": "outposts",
     "name": "aws-outposts",
     "product_name": "AWS Outposts",
     "category": "Compute",
@@ -424,6 +477,7 @@
     "url": "https://aws.amazon.com/outposts/"
   },
   {
+    "id": "lightsail",
     "name": "amazon-lightsail",
     "product_name": "Amazon Lightsail",
     "category": "Compute",
@@ -432,6 +486,7 @@
     "url": "https://aws.amazon.com/lightsail/"
   },
   {
+    "id": "elastickubernetesserviceeks",
     "name": "amazon-elastic-kubernetes-service-eks",
     "product_name": "Amazon Elastic Kubernetes Service (EKS)",
     "category": "Containers",
@@ -440,6 +495,7 @@
     "url": "https://aws.amazon.com/eks/"
   },
   {
+    "id": "fargate",
     "name": "aws-fargate",
     "product_name": "AWS Fargate",
     "category": "Containers",
@@ -448,6 +504,7 @@
     "url": "https://aws.amazon.com/fargate/"
   },
   {
+    "id": "redhatopenshiftservice",
     "name": "red-hat-openshift-service-aws",
     "product_name": "Red Hat OpenShift Service on AWS",
     "category": "Containers",
@@ -456,6 +513,7 @@
     "url": "https://aws.amazon.com/rosa/"
   },
   {
+    "id": "app2container",
     "name": "aws-app2container",
     "product_name": "AWS App2Container",
     "category": "Containers",
@@ -464,6 +522,7 @@
     "url": "https://aws.amazon.com/app2container/"
   },
   {
+    "id": "elasticcontainerregistry",
     "name": "amazon-elastic-container-registry",
     "product_name": "Amazon Elastic Container Registry (ECR)",
     "category": "Containers",
@@ -472,6 +531,7 @@
     "url": "https://aws.amazon.com/ecr/"
   },
   {
+    "id": "copilot",
     "name": "aws-copilot",
     "product_name": "AWS Copilot",
     "category": "Containers",
@@ -480,6 +540,7 @@
     "url": "https://aws.amazon.com/containers/copilot/"
   },
   {
+    "id": "elasticcontainerserviceecs",
     "name": "amazon-elastic-container-service-ecs",
     "product_name": "Amazon Elastic Container Service (ECS)",
     "category": "Containers",
@@ -488,6 +549,7 @@
     "url": "https://aws.amazon.com/ecs/"
   },
   {
+    "id": "timestream",
     "name": "amazon-timestream",
     "product_name": "Amazon Timestream",
     "category": "Databases",
@@ -496,6 +558,7 @@
     "url": "https://aws.amazon.com/timestream/"
   },
   {
+    "id": "dynamodb",
     "name": "amazon-dynamodb",
     "product_name": "Amazon DynamoDB",
     "category": "Databases",
@@ -504,6 +567,7 @@
     "url": "https://aws.amazon.com/dynamodb/"
   },
   {
+    "id": "documentdbwithmongodbcompatibility",
     "name": "amazon-documentdb-with-mongodb-compatibility",
     "product_name": "Amazon DocumentDB",
     "category": "Databases",
@@ -512,6 +576,7 @@
     "url": "https://aws.amazon.com/documentdb/"
   },
   {
+    "id": "rds",
     "name": "amazon-rds",
     "product_name": "Amazon RDS",
     "category": "Databases",
@@ -520,6 +585,7 @@
     "url": "https://aws.amazon.com/rds/"
   },
   {
+    "id": "memorydbforredis",
     "name": "amazon-memorydb-for-redis",
     "product_name": "Amazon MemoryDB for Redis",
     "category": "Databases",
@@ -528,6 +594,7 @@
     "url": "https://aws.amazon.com/memorydb/"
   },
   {
+    "id": "aurora",
     "name": "amazon-aurora",
     "product_name": "Amazon Aurora",
     "category": "Databases",
@@ -536,6 +603,7 @@
     "url": "https://aws.amazon.com/rds/aurora/"
   },
   {
+    "id": "neptune",
     "name": "amazon-neptune",
     "product_name": "Amazon Neptune",
     "category": "Databases",
@@ -544,6 +612,7 @@
     "url": "https://aws.amazon.com/neptune/"
   },
   {
+    "id": "elasticache",
     "name": "amazon-elasticache",
     "product_name": "Amazon ElastiCache",
     "category": "Databases",
@@ -552,6 +621,7 @@
     "url": "https://aws.amazon.com/elasticache/"
   },
   {
+    "id": "keyspacesforapachecassandra",
     "name": "amazon-keyspaces-for-apache-cassandra",
     "product_name": "Amazon Keyspaces (for Apache Cassandra)",
     "category": "Databases",
@@ -560,6 +630,7 @@
     "url": "https://aws.amazon.com/keyspaces/"
   },
   {
+    "id": "redshift",
     "name": "amazon-redshift",
     "product_name": "Amazon Redshift",
     "category": "Databases",
@@ -568,6 +639,7 @@
     "url": "https://aws.amazon.com/redshift/"
   },
   {
+    "id": "codedeploy",
     "name": "aws-codedeploy",
     "product_name": "AWS CodeDeploy",
     "category": "Developer Tools",
@@ -576,6 +648,7 @@
     "url": "https://aws.amazon.com/codedeploy/"
   },
   {
+    "id": "cloud9",
     "name": "aws-cloud9",
     "product_name": "AWS Cloud9",
     "category": "Developer Tools",
@@ -584,6 +657,7 @@
     "url": "https://aws.amazon.com/cloud9/"
   },
   {
+    "id": "clouddevelopmentkitcdk",
     "name": "aws-cloud-development-kit-cdk",
     "product_name": "AWS Cloud Development Kit (CDK)",
     "category": "Developer Tools",
@@ -592,6 +666,7 @@
     "url": "https://aws.amazon.com/cdk/"
   },
   {
+    "id": "codecatalyst",
     "name": "amazon-codecatalyst",
     "product_name": "Amazon CodeCatalyst (Preview)",
     "category": "Developer Tools",
@@ -600,6 +675,7 @@
     "url": "https://aws.amazon.com/codecatalyst/"
   },
   {
+    "id": "commandlineinterface",
     "name": "aws-command-line-interface",
     "product_name": "AWS Command Line Interface (CLI)",
     "category": "Developer Tools",
@@ -608,6 +684,7 @@
     "url": "https://aws.amazon.com/cli/"
   },
   {
+    "id": "codestar",
     "name": "aws-codestar",
     "product_name": "AWS CodeStar",
     "category": "Developer Tools",
@@ -616,6 +693,7 @@
     "url": "https://aws.amazon.com/codestar/"
   },
   {
+    "id": "toolsandsdks",
     "name": "aws-tools-and-sdks",
     "product_name": "AWS Tools and SDKs",
     "category": "Developer Tools",
@@ -624,6 +702,7 @@
     "url": "https://aws.amazon.com/getting-started/tools-sdks/"
   },
   {
+    "id": "codebuild",
     "name": "aws-codebuild",
     "product_name": "AWS CodeBuild",
     "category": "Developer Tools",
@@ -632,6 +711,7 @@
     "url": "https://aws.amazon.com/codebuild/"
   },
   {
+    "id": "xray",
     "name": "aws-x-ray",
     "product_name": "AWS X-Ray",
     "category": "Developer Tools",
@@ -640,6 +720,7 @@
     "url": "https://aws.amazon.com/xray/"
   },
   {
+    "id": "codepipeline",
     "name": "aws-codepipeline",
     "product_name": "AWS CodePipeline",
     "category": "Developer Tools",
@@ -648,6 +729,7 @@
     "url": "https://aws.amazon.com/codepipeline/"
   },
   {
+    "id": "codecommit",
     "name": "aws-codecommit",
     "product_name": "AWS CodeCommit",
     "category": "Developer Tools",
@@ -656,6 +738,7 @@
     "url": "https://aws.amazon.com/codecommit/"
   },
   {
+    "id": "cloudcontrolapi",
     "name": "aws-cloud-control-api",
     "product_name": "AWS Cloud Control API",
     "category": "Developer Tools",
@@ -664,6 +747,7 @@
     "url": "https://aws.amazon.com/cloudcontrolapi/"
   },
   {
+    "id": "corretto",
     "name": "amazon-corretto",
     "product_name": "Amazon Corretto",
     "category": "Developer Tools",
@@ -672,6 +756,7 @@
     "url": "https://aws.amazon.com/corretto/"
   },
   {
+    "id": "codeartifact",
     "name": "aws-code-artifact",
     "product_name": "AWS CodeArtifact",
     "category": "Developer Tools",
@@ -680,6 +765,7 @@
     "url": "https://aws.amazon.com/codeartifact/"
   },
   {
+    "id": "faultinjectionsimulator",
     "name": "aws-fault-injection-simulator",
     "product_name": "AWS Fault Injection Simulator",
     "category": "Developer Tools",
@@ -688,6 +774,7 @@
     "url": "https://aws.amazon.com/fis/"
   },
   {
+    "id": "cloudshell",
     "name": "aws-cloudshell",
     "product_name": "AWS CloudShell",
     "category": "Developer Tools",
@@ -696,6 +783,7 @@
     "url": "https://aws.amazon.com/cloudshell/"
   },
   {
+    "id": "workspaces",
     "name": "amazon-workspaces",
     "product_name": "Amazon WorkSpaces Family",
     "category": "End User Computing",
@@ -704,6 +792,7 @@
     "url": "https://aws.amazon.com/workspaces/"
   },
   {
+    "id": "appstream20",
     "name": "amazon-appstream-2-0",
     "product_name": "Amazon AppStream 2.0",
     "category": "End User Computing",
@@ -712,6 +801,7 @@
     "url": "https://aws.amazon.com/appstream2/"
   },
   {
+    "id": "appsync",
     "name": "aws-appsync",
     "product_name": "AWS AppSync",
     "category": "Front-End Web & Mobile",
@@ -720,6 +810,7 @@
     "url": "https://aws.amazon.com/appsync/"
   },
   {
+    "id": "simpleemailserviceses",
     "name": "amazon-simple-email-service-ses",
     "product_name": "Amazon Simple Email Service (SES)",
     "category": "Front-End Web & Mobile",
@@ -728,6 +819,7 @@
     "url": "https://aws.amazon.com/ses/"
   },
   {
+    "id": "devicefarm",
     "name": "aws-device-farm",
     "product_name": "AWS Device Farm",
     "category": "Front-End Web & Mobile",
@@ -736,6 +828,7 @@
     "url": "https://aws.amazon.com/device-farm/"
   },
   {
+    "id": "apigateway",
     "name": "amazon-api-gateway",
     "product_name": "Amazon API Gateway",
     "category": "Front-End Web & Mobile",
@@ -744,6 +837,7 @@
     "url": "https://aws.amazon.com/api-gateway/"
   },
   {
+    "id": "pinpoint",
     "name": "amazon-pinpoint",
     "product_name": "Amazon Pinpoint",
     "category": "Front-End Web & Mobile",
@@ -752,6 +846,7 @@
     "url": "https://aws.amazon.com/pinpoint/"
   },
   {
+    "id": "location",
     "name": "amazon-location",
     "product_name": "Amazon Location Service",
     "category": "Front-End Web & Mobile",
@@ -760,6 +855,7 @@
     "url": "https://aws.amazon.com/location/"
   },
   {
+    "id": "amplify",
     "name": "aws-amplify",
     "product_name": "AWS Amplify",
     "category": "Front-End Web & Mobile",
@@ -768,6 +864,7 @@
     "url": "https://aws.amazon.com/amplify/"
   },
   {
+    "id": "lumberyard",
     "name": "amazon-lumberyard",
     "product_name": "Amazon Lumberyard",
     "category": "Game Tech",
@@ -776,6 +873,7 @@
     "url": "https://aws.amazon.com/lumberyard/"
   },
   {
+    "id": "gamelift",
     "name": "amazon-gamelift",
     "product_name": "Amazon GameLift",
     "category": "Game Tech",
@@ -784,6 +882,7 @@
     "url": "https://aws.amazon.com/gamelift/"
   },
   {
+    "id": "iotanalytics",
     "name": "aws-iot-analytics",
     "product_name": "AWS IoT Analytics",
     "category": "Internet of Things",
@@ -792,6 +891,7 @@
     "url": "https://aws.amazon.com/iot-analytics/"
   },
   {
+    "id": "partnerdevicecatalog",
     "name": "aws-partner-device-catalog",
     "product_name": "AWS Partner Device Catalog",
     "category": "Internet of Things",
@@ -800,6 +900,7 @@
     "url": "https://devices.amazonaws.com/"
   },
   {
+    "id": "iotdevicemanagement",
     "name": "aws-iot-device-management",
     "product_name": "AWS IoT Device Management",
     "category": "Internet of Things",
@@ -808,6 +909,7 @@
     "url": "https://aws.amazon.com/iot-device-management/"
   },
   {
+    "id": "iotgreengrass",
     "name": "aws-iot-greengrass",
     "product_name": "AWS IoT Greengrass",
     "category": "Internet of Things",
@@ -816,6 +918,7 @@
     "url": "https://aws.amazon.com/greengrass/"
   },
   {
+    "id": "freertos",
     "name": "amazon-freertos",
     "product_name": "FreeRTOS",
     "category": "Internet of Things",
@@ -824,6 +927,7 @@
     "url": "https://aws.amazon.com/freertos/"
   },
   {
+    "id": "iotfleetwise",
     "name": "aws-iot-fleetwise",
     "product_name": "AWS IoT FleetWise",
     "category": "Internet of Things",
@@ -832,6 +936,7 @@
     "url": "https://aws.amazon.com/iot-fleetwise/"
   },
   {
+    "id": "iottwinmaker",
     "name": "aws-iot-twinmaker",
     "product_name": "AWS IoT TwinMaker",
     "category": "Internet of Things",
@@ -840,6 +945,7 @@
     "url": "https://aws.amazon.com/iot-twinmaker/"
   },
   {
+    "id": "iotbutton",
     "name": "aws-iot-button",
     "product_name": "AWS IoT Button",
     "category": "Internet of Things",
@@ -848,6 +954,7 @@
     "url": "https://aws.amazon.com/iotbutton/"
   },
   {
+    "id": "iotedukit",
     "name": "aws-iot-edukit",
     "product_name": "AWS IoT EduKit",
     "category": "Internet of Things",
@@ -856,6 +963,7 @@
     "url": "https://aws.amazon.com/iot/edukit/"
   },
   {
+    "id": "iotcore",
     "name": "aws-iot-core",
     "product_name": "AWS IoT Core",
     "category": "Internet of Things",
@@ -864,6 +972,7 @@
     "url": "https://aws.amazon.com/iot-core/"
   },
   {
+    "id": "iotroborunner",
     "name": "aws-iot-roborunner",
     "product_name": "AWS IoT RoboRunner",
     "category": "Internet of Things",
@@ -872,6 +981,7 @@
     "url": "https://aws.amazon.com/roborunner"
   },
   {
+    "id": "iotevents",
     "name": "aws-iot-events",
     "product_name": "AWS IoT Events",
     "category": "Internet of Things",
@@ -880,6 +990,7 @@
     "url": "https://aws.amazon.com/iot-events/"
   },
   {
+    "id": "iotdevicedefender",
     "name": "aws-iot-device-defender",
     "product_name": "AWS IoT Device Defender",
     "category": "Internet of Things",
@@ -888,6 +999,7 @@
     "url": "https://aws.amazon.com/iot-device-defender/"
   },
   {
+    "id": "iot1click",
     "name": "aws-iot-1-click",
     "product_name": "AWS IoT 1-Click",
     "category": "Internet of Things",
@@ -896,6 +1008,7 @@
     "url": "https://aws.amazon.com/iot-1-click/"
   },
   {
+    "id": "iotsitewise",
     "name": "aws-iot-sitewise",
     "product_name": "AWS IoT SiteWise",
     "category": "Internet of Things",
@@ -904,6 +1017,7 @@
     "url": "https://aws.amazon.com/iot-sitewise/"
   },
   {
+    "id": "monitron",
     "name": "amazon-monitron",
     "product_name": "Amazon Monitron",
     "category": "Machine Learning",
@@ -912,6 +1026,7 @@
     "url": "https://aws.amazon.com/monitron/"
   },
   {
+    "id": "lookoutformetrics",
     "name": "amazon-lookout-for-metrics",
     "product_name": "Amazon Lookout for Metrics",
     "category": "Machine Learning",
@@ -920,6 +1035,7 @@
     "url": "https://aws.amazon.com/lookout-for-metrics/"
   },
   {
+    "id": "devopsguru",
     "name": "amazon-devops-guru",
     "product_name": "Amazon DevOps Guru",
     "category": "Machine Learning",
@@ -928,6 +1044,7 @@
     "url": "https://aws.amazon.com/devops-guru/"
   },
   {
+    "id": "deepcomposer",
     "name": "aws-deepcomposer",
     "product_name": "AWS DeepComposer",
     "category": "Machine Learning",
@@ -936,6 +1053,7 @@
     "url": "https://aws.amazon.com/deepcomposer/"
   },
   {
+    "id": "textract",
     "name": "amazon-textract",
     "product_name": "Amazon Textract",
     "category": "Machine Learning",
@@ -944,6 +1062,7 @@
     "url": "https://aws.amazon.com/textract/"
   },
   {
+    "id": "tensorflowon",
     "name": "tensorflow-on-aws",
     "product_name": "TensorFlow on AWS",
     "category": "Machine Learning",
@@ -952,6 +1071,7 @@
     "url": "https://aws.amazon.com/tensorflow/"
   },
   {
+    "id": "lex",
     "name": "amazon-lex",
     "product_name": "Amazon Lex",
     "category": "Machine Learning",
@@ -960,6 +1080,7 @@
     "url": "https://aws.amazon.com/lex/"
   },
   {
+    "id": "sagemaker",
     "name": "amazon-sagemaker",
     "product_name": "Amazon SageMaker",
     "category": "Machine Learning",
@@ -968,6 +1089,7 @@
     "url": "https://aws.amazon.com/sagemaker/"
   },
   {
+    "id": "lookoutforvision",
     "name": "amazon-lookout-for-vision",
     "product_name": "Amazon Lookout for Vision",
     "category": "Machine Learning",
@@ -976,6 +1098,7 @@
     "url": "https://aws.amazon.com/lookout-for-vision/"
   },
   {
+    "id": "healthlake",
     "name": "amazon-healthlake",
     "product_name": "Amazon HealthLake",
     "category": "Machine Learning",
@@ -984,6 +1107,7 @@
     "url": "https://aws.amazon.com/healthlake/"
   },
   {
+    "id": "deeplearningcontainers",
     "name": "aws-deep-learning-containers",
     "product_name": "AWS Deep Learning Containers",
     "category": "Machine Learning",
@@ -992,6 +1116,7 @@
     "url": "https://aws.amazon.com/machine-learning/containers/"
   },
   {
+    "id": "personalize",
     "name": "amazon-personalize",
     "product_name": "Amazon Personalize",
     "category": "Machine Learning",
@@ -1000,6 +1125,7 @@
     "url": "https://aws.amazon.com/personalize/"
   },
   {
+    "id": "frauddetector",
     "name": "amazon-fraud-detector",
     "product_name": "Amazon Fraud Detector",
     "category": "Machine Learning",
@@ -1008,6 +1134,7 @@
     "url": "https://aws.amazon.com/fraud-detector/"
   },
   {
+    "id": "kendra",
     "name": "amazon-kendra",
     "product_name": "Amazon Kendra",
     "category": "Machine Learning",
@@ -1016,6 +1143,7 @@
     "url": "https://aws.amazon.com/kendra/"
   },
   {
+    "id": "forecast",
     "name": "amazon-forecast",
     "product_name": "Amazon Forecast",
     "category": "Machine Learning",
@@ -1024,6 +1152,7 @@
     "url": "https://aws.amazon.com/forecast/"
   },
   {
+    "id": "inferentia",
     "name": "aws-inferentia",
     "product_name": "AWS Inferentia",
     "category": "Machine Learning",
@@ -1032,6 +1161,7 @@
     "url": "https://aws.amazon.com/machine-learning/inferentia/"
   },
   {
+    "id": "codeguru",
     "name": "amazon-codeguru",
     "product_name": "Amazon CodeGuru",
     "category": "Machine Learning",
@@ -1040,6 +1170,7 @@
     "url": "https://aws.amazon.com/codeguru/"
   },
   {
+    "id": "transcribe",
     "name": "amazon-transcribe",
     "product_name": "Amazon Transcribe",
     "category": "Machine Learning",
@@ -1048,6 +1179,7 @@
     "url": "https://aws.amazon.com/transcribe/"
   },
   {
+    "id": "panorama",
     "name": "aws-panorama",
     "product_name": "AWS Panorama",
     "category": "Machine Learning",
@@ -1056,6 +1188,7 @@
     "url": "https://aws.amazon.com/panorama/"
   },
   {
+    "id": "deeplens",
     "name": "aws-deeplens",
     "product_name": "AWS DeepLens",
     "category": "Machine Learning",
@@ -1064,6 +1197,7 @@
     "url": "https://aws.amazon.com/deeplens/"
   },
   {
+    "id": "apachemxneton",
     "name": "apache-mxnet-on-aws",
     "product_name": "Apache MXNet on AWS",
     "category": "Machine Learning",
@@ -1072,6 +1206,7 @@
     "url": "https://aws.amazon.com/mxnet/"
   },
   {
+    "id": "deeplearningamis",
     "name": "aws-deep-learning-amis",
     "product_name": "AWS Deep Learning AMIs",
     "category": "Machine Learning",
@@ -1080,6 +1215,7 @@
     "url": "https://aws.amazon.com/machine-learning/amis/"
   },
   {
+    "id": "translate",
     "name": "amazon-translate",
     "product_name": "Amazon Translate",
     "category": "Machine Learning",
@@ -1088,6 +1224,7 @@
     "url": "https://aws.amazon.com/translate/"
   },
   {
+    "id": "elasticinference",
     "name": "amazon-elastic-inference",
     "product_name": "Amazon Elastic Inference",
     "category": "Machine Learning",
@@ -1096,6 +1233,7 @@
     "url": "https://aws.amazon.com/machine-learning/elastic-inference/"
   },
   {
+    "id": "augmentedai",
     "name": "amazon-augmented-ai",
     "product_name": "Amazon Augmented AI",
     "category": "Machine Learning",
@@ -1104,6 +1242,7 @@
     "url": "https://aws.amazon.com/augmented-ai/"
   },
   {
+    "id": "lookoutforequipment",
     "name": "amazon-lookout-for-equipment",
     "product_name": "Amazon Lookout for Equipment",
     "category": "Machine Learning",
@@ -1112,6 +1251,7 @@
     "url": "https://aws.amazon.com/lookout-for-equipment/"
   },
   {
+    "id": "pytorchon",
     "name": "pytorch-on-aws",
     "product_name": "PyTorch on AWS",
     "category": "Machine Learning",
@@ -1120,6 +1260,7 @@
     "url": "https://aws.amazon.com/pytorch/"
   },
   {
+    "id": "rekognition",
     "name": "amazon-rekognition",
     "product_name": "Amazon Rekognition",
     "category": "Machine Learning",
@@ -1128,6 +1269,7 @@
     "url": "https://aws.amazon.com/rekognition/"
   },
   {
+    "id": "sagemakergroundtruth",
     "name": "amazon-sagemaker-ground-truth",
     "product_name": "Amazon SageMaker Ground Truth",
     "category": "Machine Learning",
@@ -1136,6 +1278,7 @@
     "url": "https://aws.amazon.com/sagemaker/groundtruth/"
   },
   {
+    "id": "deepracer",
     "name": "aws-deepracer",
     "product_name": "AWS DeepRacer",
     "category": "Machine Learning",
@@ -1144,6 +1287,7 @@
     "url": "https://aws.amazon.com/deepracer/"
   },
   {
+    "id": "polly",
     "name": "amazon-polly",
     "product_name": "Amazon Polly",
     "category": "Machine Learning",
@@ -1152,6 +1296,7 @@
     "url": "https://aws.amazon.com/polly/"
   },
   {
+    "id": "comprehend",
     "name": "amazon-comprehend",
     "product_name": "Amazon Comprehend",
     "category": "Machine Learning",
@@ -1160,6 +1305,7 @@
     "url": "https://aws.amazon.com/comprehend/"
   },
   {
+    "id": "omics",
     "name": "amazon-omics",
     "product_name": "Amazon Omics",
     "category": "Machine Learning",
@@ -1168,6 +1314,7 @@
     "url": "https://aws.amazon.com/omics/"
   },
   {
+    "id": "codewhisperer",
     "name": "amazon-codewhisperer",
     "product_name": "Amazon CodeWhisperer",
     "category": "Machine Learning",
@@ -1176,6 +1323,7 @@
     "url": "https://aws.amazon.com/codewhisperer/"
   },
   {
+    "id": "bedrock",
     "name": "amazon-bedrock",
     "product_name": "Amazon Bedrock",
     "category": "Machine Learning",
@@ -1184,6 +1332,7 @@
     "url": "https://aws.amazon.com/bedrock/"
   },
   {
+    "id": "managedpromotheus",
     "name": "amazon-managed-promotheus",
     "product_name": "Amazon Managed Service for Prometheus",
     "category": "Management & Governance",
@@ -1192,6 +1341,7 @@
     "url": "https://aws.amazon.com/prometheus/"
   },
   {
+    "id": "organizations",
     "name": "aws-organizations",
     "product_name": "AWS Organizations",
     "category": "Management & Governance",
@@ -1200,6 +1350,7 @@
     "url": "https://aws.amazon.com/organizations/"
   },
   {
+    "id": "managedservices",
     "name": "aws-managed-services",
     "product_name": "AWS Managed Services",
     "category": "Management & Governance",
@@ -1208,6 +1359,7 @@
     "url": "https://aws.amazon.com/managed-services/"
   },
   {
+    "id": "cloudwatch",
     "name": "amazon-cloudwatch",
     "product_name": "Amazon CloudWatch",
     "category": "Management & Governance",
@@ -1216,6 +1368,7 @@
     "url": "https://aws.amazon.com/cloudwatch/"
   },
   {
+    "id": "distroopentelemetry",
     "name": "aws-distro-open-telemetry",
     "product_name": "AWS Distro for OpenTelemetry",
     "category": "Management & Governance",
@@ -1224,6 +1377,7 @@
     "url": "https://aws.amazon.com/otel/"
   },
   {
+    "id": "managementconsole",
     "name": "aws-management-console",
     "product_name": "AWS Management Console",
     "category": "Management & Governance",
@@ -1232,6 +1386,7 @@
     "url": "https://aws.amazon.com/console/"
   },
   {
+    "id": "licensemanager",
     "name": "aws-license-manager",
     "product_name": "AWS License Manager",
     "category": "Management & Governance",
@@ -1240,6 +1395,7 @@
     "url": "https://aws.amazon.com/license-manager/"
   },
   {
+    "id": "config",
     "name": "aws-config",
     "product_name": "AWS Config",
     "category": "Management & Governance",
@@ -1248,6 +1404,7 @@
     "url": "https://aws.amazon.com/config/"
   },
   {
+    "id": "cloudtrail",
     "name": "aws-cloudtrail",
     "product_name": "AWS CloudTrail",
     "category": "Management & Governance",
@@ -1256,6 +1413,7 @@
     "url": "https://aws.amazon.com/cloudtrail/"
   },
   {
+    "id": "managedgrafana",
     "name": "amazon-managed-grafana",
     "product_name": "Amazon Managed Grafana",
     "category": "Management & Governance",
@@ -1264,6 +1422,7 @@
     "url": "https://aws.amazon.com/grafana/"
   },
   {
+    "id": "systemsmanager",
     "name": "aws-systems-manager",
     "product_name": "AWS Systems Manager",
     "category": "Management & Governance",
@@ -1272,6 +1431,7 @@
     "url": "https://aws.amazon.com/systems-manager/"
   },
   {
+    "id": "cloudformation",
     "name": "aws-cloudformation",
     "product_name": "AWS CloudFormation",
     "category": "Management & Governance",
@@ -1280,6 +1440,7 @@
     "url": "https://aws.amazon.com/cloudformation/"
   },
   {
+    "id": "servicemanagementconnector",
     "name": "aws-service-management-connector",
     "product_name": "AWS Service Management Connector",
     "category": "Management & Governance",
@@ -1288,6 +1449,7 @@
     "url": "https://aws.amazon.com/service-management-connector/"
   },
   {
+    "id": "opsworks",
     "name": "aws-opsworks",
     "product_name": "AWS OpsWorks",
     "category": "Management & Governance",
@@ -1296,6 +1458,7 @@
     "url": "https://aws.amazon.com/opsworks/"
   },
   {
+    "id": "consolemobileapplication",
     "name": "aws-console-mobile-application",
     "product_name": "AWS Management Console Mobile Application",
     "category": "Management & Governance",
@@ -1304,6 +1467,7 @@
     "url": "https://aws.amazon.com/console/mobile/"
   },
   {
+    "id": "controltower",
     "name": "aws-control-tower",
     "product_name": "AWS Control Tower",
     "category": "Management & Governance",
@@ -1312,6 +1476,7 @@
     "url": "https://aws.amazon.com/controltower/"
   },
   {
+    "id": "trustedadvisor",
     "name": "aws-trusted-advisor",
     "product_name": "AWS Trusted Advisor",
     "category": "Management & Governance",
@@ -1320,6 +1485,7 @@
     "url": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/"
   },
   {
+    "id": "chatbot",
     "name": "aws-chatbot",
     "product_name": "AWS Chatbot",
     "category": "Management & Governance",
@@ -1328,6 +1494,7 @@
     "url": "https://aws.amazon.com/chatbot/"
   },
   {
+    "id": "proton",
     "name": "aws-proton",
     "product_name": "AWS Proton",
     "category": "Management & Governance",
@@ -1336,6 +1503,7 @@
     "url": "https://aws.amazon.com/proton/"
   },
   {
+    "id": "launchwizard",
     "name": "aws-launch-wizard",
     "product_name": "AWS Launch Wizard",
     "category": "Management & Governance",
@@ -1344,6 +1512,7 @@
     "url": "https://aws.amazon.com/launchwizard/"
   },
   {
+    "id": "resiliencehub",
     "name": "aws-resilience-hub",
     "product_name": "AWS Resilience Hub",
     "category": "Management & Governance",
@@ -1352,6 +1521,7 @@
     "url": "https://aws.amazon.com/resilience-hub/"
   },
   {
+    "id": "servicecatalog",
     "name": "aws-service-catalog",
     "product_name": "AWS Service Catalog",
     "category": "Management & Governance",
@@ -1360,6 +1530,7 @@
     "url": "https://aws.amazon.com/servicecatalog/"
   },
   {
+    "id": "personalhealthdashboard",
     "name": "aws-personal-health-dashboard",
     "product_name": "AWS Personal Health Dashboard",
     "category": "Management & Governance",
@@ -1368,6 +1539,7 @@
     "url": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/"
   },
   {
+    "id": "kinesisvideostreams",
     "name": "amazon-kinesis-video-streams",
     "product_name": "Amazon Kinesis Video Streams",
     "category": "Media Services",
@@ -1376,6 +1548,7 @@
     "url": "https://aws.amazon.com/kinesis/video-streams/"
   },
   {
+    "id": "elementalmediapackage",
     "name": "aws-elemental-mediapackage",
     "product_name": "AWS Elemental MediaPackage",
     "category": "Media Services",
@@ -1384,6 +1557,7 @@
     "url": "https://aws.amazon.com/mediapackage/"
   },
   {
+    "id": "nimblestudio",
     "name": "amazon-nimble-studio",
     "product_name": "Amazon Nimble Studio",
     "category": "Media Services",
@@ -1392,6 +1566,7 @@
     "url": "https://aws.amazon.com/nimble-studio/"
   },
   {
+    "id": "elastictranscoder",
     "name": "amazon-elastic-transcoder",
     "product_name": "Amazon Elastic Transcoder",
     "category": "Media Services",
@@ -1400,6 +1575,7 @@
     "url": "https://aws.amazon.com/elastictranscoder/"
   },
   {
+    "id": "elementalmediastore",
     "name": "aws-elemental-mediastore",
     "product_name": "AWS Elemental MediaStore",
     "category": "Media Services",
@@ -1408,6 +1584,7 @@
     "url": "https://aws.amazon.com/mediastore/"
   },
   {
+    "id": "elementalappliancessoftware",
     "name": "aws-elemental-appliances-software",
     "product_name": "AWS Elemental Appliances & Software",
     "category": "Media Services",
@@ -1416,6 +1593,7 @@
     "url": "https://aws.amazon.com/elemental-appliances-software/"
   },
   {
+    "id": "elementalmediatailor",
     "name": "aws-elemental-mediatailor",
     "product_name": "AWS Elemental MediaTailor",
     "category": "Media Services",
@@ -1424,6 +1602,7 @@
     "url": "https://aws.amazon.com/mediatailor/"
   },
   {
+    "id": "elementalmediaconvert",
     "name": "aws-elemental-mediaconvert",
     "product_name": "AWS Elemental MediaConvert",
     "category": "Media Services",
@@ -1432,6 +1611,7 @@
     "url": "https://aws.amazon.com/mediaconvert/"
   },
   {
+    "id": "interactivevideoservice",
     "name": "amazon-interactive-video-service",
     "product_name": "Amazon Interactive Video Service",
     "category": "Media Services",
@@ -1440,6 +1620,7 @@
     "url": "https://aws.amazon.com/ivs/"
   },
   {
+    "id": "elementalmediaconnectmediaservices",
     "name": "aws-elemental-mediaconnect-media-services",
     "product_name": "AWS Elemental MediaConnect",
     "category": "Media Services",
@@ -1448,6 +1629,7 @@
     "url": "https://aws.amazon.com/mediaconnect/"
   },
   {
+    "id": "elementalmedialive",
     "name": "aws-elemental-medialive",
     "product_name": "AWS Elemental MediaLive",
     "category": "Media Services",
@@ -1456,6 +1638,7 @@
     "url": "https://aws.amazon.com/medialive/"
   },
   {
+    "id": "databasemigrationservice",
     "name": "aws-database-migration-service",
     "product_name": "AWS Database Migration Service (DMS)",
     "category": "Migration",
@@ -1464,6 +1647,7 @@
     "url": "https://aws.amazon.com/dms/"
   },
   {
+    "id": "mainframemodernization",
     "name": "aws-mainframe-modernization",
     "product_name": "AWS Mainframe Modernization",
     "category": "Migration",
@@ -1472,6 +1656,7 @@
     "url": "https://aws.amazon.com/mainframe-modernization/"
   },
   {
+    "id": "migrationevaluatorformerlytsologic",
     "name": "migration-evaluator-formerly-tso-logic",
     "product_name": "Migration Evaluator (formerly TSO Logic)",
     "category": "Migration",
@@ -1480,6 +1665,7 @@
     "url": "https://aws.amazon.com/migration-evaluator/"
   },
   {
+    "id": "transferfamily",
     "name": "aws-transfer-family",
     "product_name": "AWS Transfer Family",
     "category": "Migration",
@@ -1488,6 +1674,7 @@
     "url": "https://aws.amazon.com/aws-transfer-family/"
   },
   {
+    "id": "datasync",
     "name": "aws-datasync",
     "product_name": "AWS DataSync",
     "category": "Migration",
@@ -1496,6 +1683,7 @@
     "url": "https://aws.amazon.com/datasync/"
   },
   {
+    "id": "applicationdiscoveryservice",
     "name": "aws-application-discovery-service",
     "product_name": "AWS Application Discovery Service",
     "category": "Migration",
@@ -1504,6 +1692,7 @@
     "url": "https://aws.amazon.com/application-discovery/"
   },
   {
+    "id": "cloudenduremigration",
     "name": "cloudendure-migration",
     "product_name": "AWS Application Migration Service (MGN)",
     "category": "Migration",
@@ -1512,6 +1701,7 @@
     "url": "https://aws.amazon.com/application-migration-service/"
   },
   {
+    "id": "migrationhub",
     "name": "aws-migration-hub",
     "product_name": "AWS Migration Hub",
     "category": "Migration",
@@ -1520,6 +1710,7 @@
     "url": "https://aws.amazon.com/migration-hub/"
   },
   {
+    "id": "privatelink",
     "name": "aws-privatelink",
     "product_name": "AWS PrivateLink",
     "category": "Networking & Content Delivery",
@@ -1528,6 +1719,7 @@
     "url": "https://aws.amazon.com/privatelink/"
   },
   {
+    "id": "globalaccelerator",
     "name": "aws-global-accelerator",
     "product_name": "AWS Global Accelerator",
     "category": "Networking & Content Delivery",
@@ -1536,6 +1728,7 @@
     "url": "https://aws.amazon.com/global-accelerator/"
   },
   {
+    "id": "private5g",
     "name": "aws-private-5g",
     "product_name": "AWS Private 5G",
     "category": "Networking & Content Delivery",
@@ -1544,6 +1737,7 @@
     "url": "https://aws.amazon.com/private5g/"
   },
   {
+    "id": "route53",
     "name": "amazon-route-53",
     "product_name": "Amazon Route 53",
     "category": "Networking & Content Delivery",
@@ -1552,6 +1746,7 @@
     "url": "https://aws.amazon.com/route53/"
   },
   {
+    "id": "elasticloadbalancingelb",
     "name": "elastic-load-balancing-elb",
     "product_name": "Elastic Load Balancing (ELB)",
     "category": "Networking & Content Delivery",
@@ -1560,6 +1755,7 @@
     "url": "https://aws.amazon.com/elasticloadbalancing/"
   },
   {
+    "id": "cloudmap",
     "name": "aws-cloud-map",
     "product_name": "AWS Cloud Map",
     "category": "Networking & Content Delivery",
@@ -1568,6 +1764,7 @@
     "url": "https://aws.amazon.com/cloud-map/"
   },
   {
+    "id": "vpn",
     "name": "aws-vpn",
     "product_name": "AWS VPN",
     "category": "Networking & Content Delivery",
@@ -1576,6 +1773,7 @@
     "url": "https://aws.amazon.com/vpn/"
   },
   {
+    "id": "verifiedaccess",
     "name": "aws-verified-access",
     "product_name": "AWS Verified Access (Preview)",
     "category": "Networking & Content Delivery",
@@ -1584,6 +1782,7 @@
     "url": "https://aws.amazon.com/verified-access/"
   },
   {
+    "id": "appmesh",
     "name": "aws-app-mesh",
     "product_name": "AWS App Mesh",
     "category": "Networking & Content Delivery",
@@ -1592,6 +1791,7 @@
     "url": "https://aws.amazon.com/app-mesh/"
   },
   {
+    "id": "transitgateway",
     "name": "aws-transit-gateway",
     "product_name": "AWS Transit Gateway",
     "category": "Networking & Content Delivery",
@@ -1600,6 +1800,7 @@
     "url": "https://aws.amazon.com/transit-gateway/"
   },
   {
+    "id": "cloudfront",
     "name": "amazon-cloudfront",
     "product_name": "Amazon CloudFront",
     "category": "Networking & Content Delivery",
@@ -1608,6 +1809,7 @@
     "url": "https://aws.amazon.com/cloudfront/"
   },
   {
+    "id": "directconnect",
     "name": "aws-direct-connect",
     "product_name": "AWS Direct Connect",
     "category": "Networking & Content Delivery",
@@ -1616,6 +1818,7 @@
     "url": "https://aws.amazon.com/directconnect/"
   },
   {
+    "id": "vpc",
     "name": "amazon-vpc",
     "product_name": "Amazon VPC",
     "category": "Networking & Content Delivery",
@@ -1624,6 +1827,7 @@
     "url": "https://aws.amazon.com/vpc/"
   },
   {
+    "id": "braket",
     "name": "amazon-braket",
     "product_name": "Amazon Braket",
     "category": "Quantum Technologies",
@@ -1632,6 +1836,7 @@
     "url": "https://aws.amazon.com/braket/"
   },
   {
+    "id": "robomaker",
     "name": "aws-robomaker",
     "product_name": "AWS RoboMaker",
     "category": "Robotics",
@@ -1640,6 +1845,7 @@
     "url": "https://aws.amazon.com/robomaker/"
   },
   {
+    "id": "groundstation",
     "name": "aws-ground-station",
     "product_name": "AWS Ground Station",
     "category": "Satellite",
@@ -1648,6 +1854,7 @@
     "url": "https://aws.amazon.com/ground-station/"
   },
   {
+    "id": "detective",
     "name": "amazon-detective",
     "product_name": "Amazon Detective",
     "category": "Security, Identity, & Compliance",
@@ -1656,6 +1863,7 @@
     "url": "https://aws.amazon.com/detective/"
   },
   {
+    "id": "identityandaccessmanagementiam",
     "name": "aws-identity-and-access-management-iam",
     "product_name": "AWS Identity and Access Management",
     "category": "Security, Identity, & Compliance",
@@ -1664,6 +1872,7 @@
     "url": "https://aws.amazon.com/iam/"
   },
   {
+    "id": "securitylake",
     "name": "amazon-security-lake",
     "product_name": "Amazon Security Lake (Preview)",
     "category": "Security, Identity, & Compliance",
@@ -1672,6 +1881,7 @@
     "url": "https://aws.amazon.com/security-lake/"
   },
   {
+    "id": "networkfirewall",
     "name": "aws-network-firewall",
     "product_name": "AWS Network Firewall",
     "category": "Security, Identity, & Compliance",
@@ -1680,6 +1890,7 @@
     "url": "https://aws.amazon.com/network-firewall/"
   },
   {
+    "id": "firewallmanager",
     "name": "aws-firewall-manager",
     "product_name": "AWS Firewall Manager",
     "category": "Security, Identity, & Compliance",
@@ -1688,6 +1899,7 @@
     "url": "https://aws.amazon.com/firewall-manager/"
   },
   {
+    "id": "cognito",
     "name": "amazon-cognito",
     "product_name": "Amazon Cognito",
     "category": "Security, Identity, & Compliance",
@@ -1696,6 +1908,7 @@
     "url": "https://aws.amazon.com/cognito/"
   },
   {
+    "id": "artifact",
     "name": "aws-artifact",
     "product_name": "AWS Artifact",
     "category": "Security, Identity, & Compliance",
@@ -1704,6 +1917,7 @@
     "url": "https://aws.amazon.com/artifact/"
   },
   {
+    "id": "shield",
     "name": "aws-shield",
     "product_name": "AWS Shield",
     "category": "Security, Identity, & Compliance",
@@ -1712,6 +1926,7 @@
     "url": "https://aws.amazon.com/shield/"
   },
   {
+    "id": "certificatemanager",
     "name": "aws-certificate-manager",
     "product_name": "AWS Certificate Manager",
     "category": "Security, Identity, & Compliance",
@@ -1720,6 +1935,7 @@
     "url": "https://aws.amazon.com/certificate-manager/"
   },
   {
+    "id": "auditmanager",
     "name": "aws-audit-manager",
     "product_name": "AWS Audit Manager",
     "category": "Security, Identity, & Compliance",
@@ -1728,6 +1944,7 @@
     "url": "https://aws.amazon.com/audit-manager/"
   },
   {
+    "id": "secretsmanager",
     "name": "aws-secrets-manager",
     "product_name": "AWS Secrets Manager",
     "category": "Security, Identity, & Compliance",
@@ -1736,6 +1953,7 @@
     "url": "https://aws.amazon.com/secrets-manager/"
   },
   {
+    "id": "verifiedpermissions",
     "name": "amazon-verified-permissions",
     "product_name": "Amazon Verified Permissions (Preview)",
     "category": "Security, Identity, & Compliance",
@@ -1744,6 +1962,7 @@
     "url": "https://aws.amazon.com/verified-permissions/"
   },
   {
+    "id": "iamidentitycenter",
     "name": "aws-iam-identity-center",
     "product_name": "AWS IAM Identity Center",
     "category": "Security, Identity, & Compliance",
@@ -1752,6 +1971,7 @@
     "url": "https://aws.amazon.com/iam/identity-center/"
   },
   {
+    "id": "waf",
     "name": "aws-waf",
     "product_name": "AWS WAF",
     "category": "Security, Identity, & Compliance",
@@ -1760,6 +1980,7 @@
     "url": "https://aws.amazon.com/waf/"
   },
   {
+    "id": "securityhub",
     "name": "aws-security-hub",
     "product_name": "AWS Security Hub",
     "category": "Security, Identity, & Compliance",
@@ -1768,6 +1989,7 @@
     "url": "https://aws.amazon.com/security-hub/"
   },
   {
+    "id": "directoryservice",
     "name": "aws-directory-service",
     "product_name": "AWS Directory Service",
     "category": "Security, Identity, & Compliance",
@@ -1776,6 +1998,7 @@
     "url": "https://aws.amazon.com/directoryservice/"
   },
   {
+    "id": "resourceaccessmanager",
     "name": "aws-resource-access-manager",
     "product_name": "AWS Resource Access Manager",
     "category": "Security, Identity, & Compliance",
@@ -1784,6 +2007,7 @@
     "url": "https://aws.amazon.com/ram/"
   },
   {
+    "id": "keymanagementservice",
     "name": "aws-key-management-service",
     "product_name": "AWS Key Management Service (KMS)",
     "category": "Security, Identity, & Compliance",
@@ -1792,6 +2016,7 @@
     "url": "https://aws.amazon.com/kms/"
   },
   {
+    "id": "cloudhsm",
     "name": "aws-cloudhsm",
     "product_name": "AWS CloudHSM",
     "category": "Security, Identity, & Compliance",
@@ -1800,6 +2025,7 @@
     "url": "https://aws.amazon.com/cloudhsm/"
   },
   {
+    "id": "guardduty",
     "name": "amazon-guardduty",
     "product_name": "Amazon GuardDuty",
     "category": "Security, Identity, & Compliance",
@@ -1808,6 +2034,7 @@
     "url": "https://aws.amazon.com/guardduty/"
   },
   {
+    "id": "inspector",
     "name": "amazon-inspector",
     "product_name": "Amazon Inspector",
     "category": "Security, Identity, & Compliance",
@@ -1816,6 +2043,7 @@
     "url": "https://aws.amazon.com/inspector/"
   },
   {
+    "id": "macie",
     "name": "amazon-macie",
     "product_name": "Amazon Macie",
     "category": "Security, Identity, & Compliance",
@@ -1824,6 +2052,7 @@
     "url": "https://aws.amazon.com/macie/"
   },
   {
+    "id": "applicationcomposer",
     "name": "aws-application-composer",
     "product_name": "AWS Application Composer (Preview)",
     "category": "Serverless",
@@ -1832,6 +2061,7 @@
     "url": "https://aws.amazon.com/application-composer/"
   },
   {
+    "id": "snowfamilystorage",
     "name": "aws-snow-family-storage",
     "product_name": "AWS Snow Family",
     "category": "Storage",
@@ -1840,6 +2070,7 @@
     "url": "https://aws.amazon.com/snow/"
   },
   {
+    "id": "cloudeenduredisasterrecovery",
     "name": "cloudeendure-disaster-recovery",
     "product_name": "AWS Elastic Disaster Recovery (DRS)",
     "category": "Storage",
@@ -1848,6 +2079,7 @@
     "url": "https://aws.amazon.com/disaster-recovery/"
   },
   {
+    "id": "fsx",
     "name": "amazon-fsx",
     "product_name": "Amazon FSx",
     "category": "Storage",
@@ -1856,6 +2088,7 @@
     "url": "https://aws.amazon.com/fsx/"
   },
   {
+    "id": "glacier",
     "name": "amazon-glacier",
     "product_name": "Amazon S3 Glacier",
     "category": "Storage",
@@ -1864,6 +2097,7 @@
     "url": "https://aws.amazon.com/glacier/"
   },
   {
+    "id": "elasticfilesystemefs",
     "name": "amazon-elastic-file-system-efs",
     "product_name": "Amazon Elastic File System (EFS)",
     "category": "Storage",
@@ -1872,6 +2106,7 @@
     "url": "https://aws.amazon.com/efs/"
   },
   {
+    "id": "elasticblockstoreebs",
     "name": "amazon-elastic-block-store-ebs",
     "product_name": "Amazon Elastic Block Store (EBS)",
     "category": "Storage",
@@ -1880,6 +2115,7 @@
     "url": "https://aws.amazon.com/ebs/"
   },
   {
+    "id": "s3",
     "name": "amazon-s3",
     "product_name": "Amazon Simple Storage Service (S3)",
     "category": "Storage",
@@ -1888,6 +2124,7 @@
     "url": "https://aws.amazon.com/s3/"
   },
   {
+    "id": "backup",
     "name": "aws-backup",
     "product_name": "AWS Backup",
     "category": "Storage",
@@ -1896,6 +2133,7 @@
     "url": "https://aws.amazon.com/backup/"
   },
   {
+    "id": "storagegateway",
     "name": "aws-storage-gateway",
     "product_name": "AWS Storage Gateway",
     "category": "Storage",

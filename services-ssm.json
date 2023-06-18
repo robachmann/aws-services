@@ -1,0 +1,1792 @@
+[
+  {
+    "product_name": "ChimeSDK Identity",
+    "id": "chime-sdk-identity",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS CodeStar",
+    "id": "codestar",
+    "url": "https://aws.amazon.com/codestar/"
+  },
+  {
+    "product_name": "Amazon DynamoDB Accelerator",
+    "id": "dax",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Elastic Container Service (ECS)",
+    "id": "ecs",
+    "url": "https://aws.amazon.com/ecs/"
+  },
+  {
+    "product_name": "Amazon ElastiCache",
+    "id": "elasticache",
+    "url": "https://aws.amazon.com/elasticache/"
+  },
+  {
+    "product_name": "AWS Glue",
+    "id": "glue",
+    "url": "https://aws.amazon.com/glue/"
+  },
+  {
+    "product_name": "AWS Import/Export",
+    "id": "importexport",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT 1-Click",
+    "id": "iot1click-projects",
+    "url": "https://aws.amazon.com/iot-1-click/"
+  },
+  {
+    "product_name": "Amazon Simple Workflow Service (SWF)",
+    "id": "swf",
+    "url": "https://aws.amazon.com/swf/"
+  },
+  {
+    "product_name": "AWS Wickr",
+    "id": "wickr",
+    "url": "https://aws.amazon.com/wickr/"
+  },
+  {
+    "product_name": "Amazon CloudSearch",
+    "id": "cloudsearch",
+    "url": "https://aws.amazon.com/cloudsearch/"
+  },
+  {
+    "product_name": "Amazon FSx for OpenZFS",
+    "id": "fsx-openzfs",
+    "url": "https://aws.amazon.com/fsx/openzfs"
+  },
+  {
+    "product_name": "AWS Key Management Service",
+    "id": "kms",
+    "url": "https://aws.amazon.com/kms/"
+  },
+  {
+    "product_name": "AWS Elemental MediaLive",
+    "id": "medialive",
+    "url": "https://aws.amazon.com/medialive/"
+  },
+  {
+    "product_name": "AWS Mobile Service",
+    "id": "mobile",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS User Notifications",
+    "id": "notifications",
+    "url": "https://aws.amazon.com/notifications/"
+  },
+  {
+    "product_name": "RDS Data",
+    "id": "rds-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Identity and Access Management Roles Anywhere",
+    "id": "rolesanywhere",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Route53 Recovery Readiness",
+    "id": "route53-recovery-readiness",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon SageMaker Feature Store Runtime",
+    "id": "sagemaker-featurestore-runtime",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Amplify",
+    "id": "amplify",
+    "url": "https://aws.amazon.com/amplify/"
+  },
+  {
+    "product_name": "AWS Backup",
+    "id": "backup",
+    "url": "https://aws.amazon.com/backup/"
+  },
+  {
+    "product_name": "Amazon Chime Messaging",
+    "id": "chime-sdk-messaging",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS CloudTrail Data Service",
+    "id": "cloudtrail-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Connect Cases",
+    "id": "connectcases",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS DeepComposer",
+    "id": "deepcomposer",
+    "url": "https://aws.amazon.com/deepcomposer/"
+  },
+  {
+    "product_name": "Amazon EventBridge",
+    "id": "eventbridge",
+    "url": "https://aws.amazon.com/eventbridge/"
+  },
+  {
+    "product_name": "Amazon GameSparks",
+    "id": "gamesparks",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Lex",
+    "id": "lex-runtime",
+    "url": "https://aws.amazon.com/lex/"
+  },
+  {
+    "product_name": "AWS Elemental MediaPackage V2",
+    "id": "mediapackagev2",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Athena",
+    "id": "athena",
+    "url": "https://aws.amazon.com/athena/"
+  },
+  {
+    "product_name": "AWS DeepLens",
+    "id": "deeplens",
+    "url": "https://aws.amazon.com/deeplens/"
+  },
+  {
+    "product_name": "AWS IoT Device Defender",
+    "id": "iotdevicedefender",
+    "url": "https://aws.amazon.com/iot-device-defender/"
+  },
+  {
+    "product_name": "Managed Streaming for Kafka Connect Engine",
+    "id": "kafkaconnect",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Lex Model Building Service",
+    "id": "lex-models",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Application Migration Service (MGN)",
+    "id": "mgn",
+    "url": "https://aws.amazon.com/application-migration-service/"
+  },
+  {
+    "product_name": "Amazon Neptune",
+    "id": "neptune",
+    "url": "https://aws.amazon.com/neptune/"
+  },
+  {
+    "product_name": "Amazon Route 53 Resolver",
+    "id": "route53resolver",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS WAF Regional",
+    "id": "waf-regional",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon WorkMail",
+    "id": "workmail",
+    "url": "https://aws.amazon.com/workmail/"
+  },
+  {
+    "product_name": "AWS App Runner",
+    "id": "apprunner",
+    "url": "https://aws.amazon.com/apprunner/"
+  },
+  {
+    "product_name": "Amazon Chime SDK Voice",
+    "id": "chime-sdk-voice",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Connect",
+    "id": "connect",
+    "url": "https://aws.amazon.com/connect/"
+  },
+  {
+    "product_name": "Amazon DynamoDB",
+    "id": "dynamodb",
+    "url": "https://aws.amazon.com/dynamodb/"
+  },
+  {
+    "product_name": "AWS IoT SiteWise",
+    "id": "iotsitewise",
+    "url": "https://aws.amazon.com/iot-sitewise/"
+  },
+  {
+    "product_name": "AWS Migration Hub",
+    "id": "mgh",
+    "url": "https://aws.amazon.com/migration-hub/"
+  },
+  {
+    "product_name": "Amazon QuickSight",
+    "id": "quicksight",
+    "url": "https://aws.amazon.com/quicksight/"
+  },
+  {
+    "product_name": "Amazon Route 53 Domains",
+    "id": "route53domains",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Scheduler",
+    "id": "scheduler",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Step Functions",
+    "id": "stepfunctions",
+    "url": "https://aws.amazon.com/step-functions/details/"
+  },
+  {
+    "product_name": "AWS Certificate Manager",
+    "id": "acm",
+    "url": "https://aws.amazon.com/certificate-manager/"
+  },
+  {
+    "product_name": "AWS Auto Scaling",
+    "id": "application-autoscaling",
+    "url": "https://aws.amazon.com/autoscaling/"
+  },
+  {
+    "product_name": "AWS CodeCommit",
+    "id": "codecommit",
+    "url": "https://aws.amazon.com/codecommit/"
+  },
+  {
+    "product_name": "Amazon DocumentDB (with MongoDB compatibility)",
+    "id": "docdb",
+    "url": "https://aws.amazon.com/documentdb/"
+  },
+  {
+    "product_name": "Amazon Forecast Query",
+    "id": "forecastquery",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Marketplace Commerce Analytics",
+    "id": "marketplacecommerceanalytics",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Route 53",
+    "id": "route53",
+    "url": "https://aws.amazon.com/route53/"
+  },
+  {
+    "product_name": "SageMaker Geospatial",
+    "id": "sagemaker-geospatial",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Trusted Advisor",
+    "id": "trustedadvisor",
+    "url": "https://aws.amazon.com/premiumsupport/trustedadvisor/"
+  },
+  {
+    "product_name": "Amazon WorkDocs",
+    "id": "workdocs",
+    "url": "https://aws.amazon.com/workdocs/"
+  },
+  {
+    "product_name": "Amazon API Gateway",
+    "id": "apigateway",
+    "url": "https://aws.amazon.com/api-gateway/"
+  },
+  {
+    "product_name": "Amazon FinSpace",
+    "id": "finspace",
+    "url": "https://aws.amazon.com/finspace/"
+  },
+  {
+    "product_name": "Amazon FSx for NetApp ONTAP",
+    "id": "fsx-ontap",
+    "url": "https://aws.amazon.com/fsx/netapp-ontap"
+  },
+  {
+    "product_name": "AWS Ground Station",
+    "id": "groundstation",
+    "url": "https://aws.amazon.com/ground-station/"
+  },
+  {
+    "product_name": "AWS IoT Device Advisor",
+    "id": "iotdeviceadvisor",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Kendra",
+    "id": "kendra",
+    "url": "https://aws.amazon.com/kendra/"
+  },
+  {
+    "product_name": "Amazon MQ",
+    "id": "mq",
+    "url": "https://aws.amazon.com/amazon-mq/"
+  },
+  {
+    "product_name": "Amazon RDS on VMware",
+    "id": "rdsvmware",
+    "url": "https://aws.amazon.com/rds/vmware/"
+  },
+  {
+    "product_name": "AWS S3 for Outposts",
+    "id": "s3outposts",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS SimSpace Weaver",
+    "id": "simspaceweaver",
+    "url": "https://aws.amazon.com/simspaceweaver/"
+  },
+  {
+    "product_name": "AWS Health Dashboard",
+    "id": "awshealthdashboard",
+    "url": "https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/"
+  },
+  {
+    "product_name": "AWS Backup Gateway",
+    "id": "backup-gateway",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Elastic Compute Cloud (EC2)",
+    "id": "ec2",
+    "url": "https://aws.amazon.com/ec2/"
+  },
+  {
+    "product_name": "AWS Marketplace Entitlement Service",
+    "id": "marketplace-entitlement",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS OpsWorks for Chef Automate",
+    "id": "opsworkschefautomate",
+    "url": "https://aws.amazon.com/opsworks/chefautomate/"
+  },
+  {
+    "product_name": "Amazon QLDB Session",
+    "id": "qldb-session",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Shield",
+    "id": "shield",
+    "url": "https://aws.amazon.com/shield/"
+  },
+  {
+    "product_name": "AWS VPN",
+    "id": "vpn",
+    "url": "https://aws.amazon.com/vpn/"
+  },
+  {
+    "product_name": "AWS WAF",
+    "id": "waf",
+    "url": "https://aws.amazon.com/waf/"
+  },
+  {
+    "product_name": "AWS Well-Architected Tool",
+    "id": "wellarchitectedtool",
+    "url": "https://aws.amazon.com/well-architected-tool"
+  },
+  {
+    "product_name": "AWS CodeBuild",
+    "id": "codebuild",
+    "url": "https://aws.amazon.com/codebuild/"
+  },
+  {
+    "product_name": "AWS Compute Optimizer",
+    "id": "compute-optimizer",
+    "url": "https://aws.amazon.com/compute-optimizer/"
+  },
+  {
+    "product_name": "AWS Application Discovery Service",
+    "id": "discovery",
+    "url": "https://aws.amazon.com/application-discovery/"
+  },
+  {
+    "product_name": "AWS IoT Events Data",
+    "id": "iotevents-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "IoTWirelessConnectivity",
+    "id": "iotwireless",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Recycle Bin",
+    "id": "rbin",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Simple Notification Service (SNS)",
+    "id": "sns",
+    "url": "https://aws.amazon.com/sns/"
+  },
+  {
+    "product_name": "AWS Systems Manager for SAP",
+    "id": "ssm-sap",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Support",
+    "id": "support",
+    "url": "https://aws.amazon.com/premiumsupport/"
+  },
+  {
+    "product_name": "AWS Verified Access",
+    "id": "verified-access",
+    "url": "https://aws.amazon.com/verified-access/"
+  },
+  {
+    "product_name": "Amazon Location Service",
+    "id": "amazonlocationservice",
+    "url": "https://aws.amazon.com/location"
+  },
+  {
+    "product_name": "Amazon Connect Contact Lens",
+    "id": "connect-contact-lens",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS DataSync",
+    "id": "datasync",
+    "url": "https://aws.amazon.com/datasync"
+  },
+  {
+    "product_name": "Amazon Lookout for Metrics",
+    "id": "lookoutmetrics",
+    "url": "https://aws.amazon.com/lookout-for-metrics/"
+  },
+  {
+    "product_name": "Amazon Managed Workflows for Apache Airflow",
+    "id": "mwaa",
+    "url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/"
+  },
+  {
+    "product_name": "performanceinsights",
+    "id": "pi",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Pinpoint SMS Voice",
+    "id": "pinpoint-sms-voice",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS PrivateLink",
+    "id": "privatelink",
+    "url": "https://aws.amazon.com/privatelink/"
+  },
+  {
+    "product_name": "AWS Proton",
+    "id": "proton",
+    "url": "https://aws.amazon.com/proton/"
+  },
+  {
+    "product_name": "Redshift Data API Service",
+    "id": "redshift-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon CloudWatch Application Insights",
+    "id": "application-insights",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Aurora",
+    "id": "aurora",
+    "url": "https://aws.amazon.com/rds/aurora/"
+  },
+  {
+    "product_name": "CloudEndure Disaster Recovery",
+    "id": "cloudenduredisasterrecovery",
+    "url": "https://aws.amazon.com/cloudendure-disaster-recovery/"
+  },
+  {
+    "product_name": "AWS CloudHSM",
+    "id": "cloudhsmv2",
+    "url": "https://aws.amazon.com/cloudhsm/"
+  },
+  {
+    "product_name": "AWS CodeArtifact",
+    "id": "codeartifact",
+    "url": "https://aws.amazon.com/codeartifact"
+  },
+  {
+    "product_name": "Amazon Connect Customer Profiles",
+    "id": "customer-profiles",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Elastic Inference",
+    "id": "elastic-inference",
+    "url": "https://aws.amazon.com/elastic-inference/"
+  },
+  {
+    "product_name": "AWS Launch Wizard",
+    "id": "launchwizard",
+    "url": "https://aws.amazon.com/launchwizard/"
+  },
+  {
+    "product_name": "AWS Managed Services",
+    "id": "managedservices",
+    "url": "https://aws.amazon.com/managed-services/"
+  },
+  {
+    "product_name": "AWS Transit Gateway",
+    "id": "transitgateway",
+    "url": "https://aws.amazon.com/transit-gateway/"
+  },
+  {
+    "product_name": "AWS Audit Manager",
+    "id": "auditmanager",
+    "url": "https://aws.amazon.com/audit-manager/"
+  },
+  {
+    "product_name": "Amazon Chime SDK",
+    "id": "chime-sdk",
+    "url": "https://aws.amazon.com/chime/chime-sdk/"
+  },
+  {
+    "product_name": "AWS Device Farm",
+    "id": "devicefarm",
+    "url": "https://aws.amazon.com/device-farm/"
+  },
+  {
+    "product_name": "Amazon DynamoDB Streams",
+    "id": "dynamodbstreams",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon FSx for Windows File Server",
+    "id": "fsx-windows",
+    "url": "https://aws.amazon.com/fsx/windows/"
+  },
+  {
+    "product_name": "AWS Identity and Access Management (IAM)",
+    "id": "iam",
+    "url": "https://aws.amazon.com/iam"
+  },
+  {
+    "product_name": "AWS IoT (data plane)",
+    "id": "iot-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Lookout for Vision",
+    "id": "lookoutvision",
+    "url": "https://aws.amazon.com/lookout-for-vision/"
+  },
+  {
+    "product_name": "AWS Panorama",
+    "id": "panorama",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon WorkSpaces Application Manager",
+    "id": "wam",
+    "url": "https://aws.amazon.com/workspaces/applicationmanager/"
+  },
+  {
+    "product_name": "AWS IAM Access Analyzer",
+    "id": "accessanalyzer",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Chatbot",
+    "id": "chatbot",
+    "url": "https://aws.amazon.com/chatbot/"
+  },
+  {
+    "product_name": "AWS Cloud Control API",
+    "id": "cloudcontrolapi",
+    "url": "https://aws.amazon.com/cloudcontrolapi/"
+  },
+  {
+    "product_name": "AWS CloudShell",
+    "id": "cloudshell",
+    "url": "https://aws.amazon.com/cloudshell/"
+  },
+  {
+    "product_name": "AWS Data Pipeline",
+    "id": "datapipeline",
+    "url": "https://aws.amazon.com/datapipeline/"
+  },
+  {
+    "product_name": "Amazon Managed Grafana",
+    "id": "grafana",
+    "url": "https://aws.amazon.com/grafana/"
+  },
+  {
+    "product_name": "AWS Resource Groups",
+    "id": "resource-groups",
+    "url": "https://docs.aws.amazon.com/ARG/index.html"
+  },
+  {
+    "product_name": "AWS Signer",
+    "id": "signer",
+    "url": "https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html"
+  },
+  {
+    "product_name": "Amazon Transcribe",
+    "id": "transcribe",
+    "url": "https://aws.amazon.com/transcribe/"
+  },
+  {
+    "product_name": "Amazon Translate",
+    "id": "translate",
+    "url": "https://aws.amazon.com/translate/"
+  },
+  {
+    "product_name": "AWS Amplify Admin",
+    "id": "amplifybackend",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Augmented AI (A2I)",
+    "id": "augmentedairuntime",
+    "url": "https://aws.amazon.com/augmented-ai/"
+  },
+  {
+    "product_name": "AWS Direct Connect",
+    "id": "directconnect",
+    "url": "https://aws.amazon.com/directconnect/"
+  },
+  {
+    "product_name": "AWSdlm",
+    "id": "dlm",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWSIdentityStore",
+    "id": "identitystore",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Lake Formation",
+    "id": "lakeformation",
+    "url": "https://aws.amazon.com/lake-formation/"
+  },
+  {
+    "product_name": "AWS Elemental MediaPackage",
+    "id": "mediapackage",
+    "url": "https://aws.amazon.com/mediapackage/"
+  },
+  {
+    "product_name": "AWS OpsWorks for Puppet Enterprise",
+    "id": "opsworkspuppetenterprise",
+    "url": "https://aws.amazon.com/opsworks/puppetenterprise/"
+  },
+  {
+    "product_name": "AWS Savings Plans",
+    "id": "savingsplans",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Simple Queue Service (SQS)",
+    "id": "sqs",
+    "url": "https://aws.amazon.com/sqs/"
+  },
+  {
+    "product_name": "AWS IQ",
+    "id": "aiq",
+    "url": "https://aws.amazon.com/iq/"
+  },
+  {
+    "product_name": "AWS App Mesh",
+    "id": "appmesh",
+    "url": "https://aws.amazon.com/app-mesh/"
+  },
+  {
+    "product_name": "Amazon Managed Service for Prometheus",
+    "id": "aps",
+    "url": "https://aws.amazon.com/prometheus/"
+  },
+  {
+    "product_name": "AWS CloudFormation",
+    "id": "cloudformation",
+    "url": "https://aws.amazon.com/cloudformation/"
+  },
+  {
+    "product_name": "Amazon CloudFront",
+    "id": "cloudfront",
+    "url": "https://aws.amazon.com/cloudfront/"
+  },
+  {
+    "product_name": "AWS Elastic Beanstalk",
+    "id": "elasticbeanstalk",
+    "url": "https://aws.amazon.com/elasticbeanstalk/"
+  },
+  {
+    "product_name": "Amazon Lightsail",
+    "id": "lightsail",
+    "url": "https://amazonlightsail.com/"
+  },
+  {
+    "product_name": "AWS OpsWorks for Chef Automate",
+    "id": "opsworkscm",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon OpenSearch Ingestion Service",
+    "id": "osis",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Rekognition",
+    "id": "rekognition",
+    "url": "https://aws.amazon.com/rekognition/"
+  },
+  {
+    "product_name": "Amazon API Gateway V2",
+    "id": "apigatewayv2",
+    "url": "unknown"
+  },
+  {
+    "product_name": "CloudEndure Migration",
+    "id": "cloudenduremigration",
+    "url": "https://aws.amazon.com/cloudendure-migration/"
+  },
+  {
+    "product_name": "Amazon CodeGuru Reviewer",
+    "id": "codeguru-reviewer",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Elastic Block Store (EBS)",
+    "id": "ebs",
+    "url": "https://aws.amazon.com/ebs/"
+  },
+  {
+    "product_name": "Amazon Elastic File System (EFS)",
+    "id": "efs",
+    "url": "https://aws.amazon.com/efs/"
+  },
+  {
+    "product_name": "Amazon FinSpace Beta API",
+    "id": "finspace-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Fault Injection Simulator",
+    "id": "fis",
+    "url": "https://aws.amazon.com/fis/"
+  },
+  {
+    "product_name": "Amazon Machine Learning",
+    "id": "machinelearning",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon SageMaker",
+    "id": "sagemaker",
+    "url": "https://aws.amazon.com/sagemaker/"
+  },
+  {
+    "product_name": "Amazon SimpleDB",
+    "id": "sdb",
+    "url": "https://aws.amazon.com/simpledb/"
+  },
+  {
+    "product_name": "AmazonAppIntegrationService",
+    "id": "appintegrations",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Backup Storage",
+    "id": "backupstorage",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Cloud Directory",
+    "id": "clouddirectory",
+    "url": "https://aws.amazon.com/cloud-directory/"
+  },
+  {
+    "product_name": "Amazon CloudWatch",
+    "id": "cloudwatch",
+    "url": "https://aws.amazon.com/cloudwatch/"
+  },
+  {
+    "product_name": "AWS IoT Greengrass",
+    "id": "greengrass",
+    "url": "https://aws.amazon.com/greengrass/"
+  },
+  {
+    "product_name": "Amazon GuardDuty",
+    "id": "guardduty",
+    "url": "https://aws.amazon.com/guardduty/"
+  },
+  {
+    "product_name": "AWS License Manager Linux Subscriptions",
+    "id": "license-manager-linux-subscriptions",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Nimble Studio",
+    "id": "nimble",
+    "url": "https://aws.amazon.com/nimble-studio/"
+  },
+  {
+    "product_name": "AWS Resource Explorer",
+    "id": "resource-explorer-2",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Secrets Manager",
+    "id": "secretsmanager",
+    "url": "https://aws.amazon.com/secrets-manager/"
+  },
+  {
+    "product_name": "Amazon Comprehend",
+    "id": "comprehend",
+    "url": "https://aws.amazon.com/comprehend/"
+  },
+  {
+    "product_name": "Amazon File Cache",
+    "id": "filecache",
+    "url": "https://aws.amazon.com/filecache/"
+  },
+  {
+    "product_name": "Amazon FSx",
+    "id": "fsx",
+    "url": "https://aws.amazon.com/fsx/"
+  },
+  {
+    "product_name": "Amazon Inspector Classic",
+    "id": "inspector",
+    "url": "https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html"
+  },
+  {
+    "product_name": "Amazon Inspector",
+    "id": "inspector2",
+    "url": "https://aws.amazon.com/inspector/"
+  },
+  {
+    "product_name": "Amazon Kendra Intelligent Ranking",
+    "id": "kendra-ranking",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Keyspaces (for Apache Cassandra)",
+    "id": "mcs",
+    "url": "https://aws.amazon.com/keyspaces/"
+  },
+  {
+    "product_name": "AWS Elemental MediaConvert",
+    "id": "mediaconvert",
+    "url": "https://aws.amazon.com/mediaconvert/"
+  },
+  {
+    "product_name": "Observability Access Manager",
+    "id": "oam",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Simple Storage Service (S3)",
+    "id": "s3",
+    "url": "https://aws.amazon.com/s3/"
+  },
+  {
+    "product_name": "AppConfigData",
+    "id": "appconfigdata",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon EC2 Auto Scaling",
+    "id": "autoscaling",
+    "url": "https://aws.amazon.com/ec2/autoscaling/"
+  },
+  {
+    "product_name": "AWS CloudTrail",
+    "id": "cloudtrail",
+    "url": "https://aws.amazon.com/cloudtrail/"
+  },
+  {
+    "product_name": "AWS CodePipeline",
+    "id": "codepipeline",
+    "url": "https://aws.amazon.com/codepipeline/"
+  },
+  {
+    "product_name": "CodeStar Connections",
+    "id": "codestar-connections",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Elastic Transcoder",
+    "id": "elastictranscoder",
+    "url": "https://aws.amazon.com/elastictranscoder/"
+  },
+  {
+    "product_name": "AWS Health APIs And Notifications",
+    "id": "health",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Outposts",
+    "id": "outposts",
+    "url": "https://aws.amazon.com/outposts/"
+  },
+  {
+    "product_name": "Amazon SageMaker",
+    "id": "sagemaker-runtime",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Snowcone",
+    "id": "snowcone",
+    "url": "https://aws.amazon.com/snowcone/"
+  },
+  {
+    "product_name": "Amazon AppStream 2.0",
+    "id": "appstream",
+    "url": "https://aws.amazon.com/appstream2/"
+  },
+  {
+    "product_name": "AWS Artifact",
+    "id": "artifact",
+    "url": "https://aws.amazon.com/artifact/"
+  },
+  {
+    "product_name": "AWS CodeDeploy",
+    "id": "codedeploy",
+    "url": "https://aws.amazon.com/codedeploy/"
+  },
+  {
+    "product_name": "Amazon Connect Participant Service",
+    "id": "connectparticipant",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Cost Explorer",
+    "id": "costexplorer",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/"
+  },
+  {
+    "product_name": "Amazon Fraud Detector",
+    "id": "frauddetector",
+    "url": "https://aws.amazon.com/fraud-detector/"
+  },
+  {
+    "product_name": "AWS Marketplace",
+    "id": "marketplace",
+    "url": "https://aws.amazon.com/mp/"
+  },
+  {
+    "product_name": "AWS Elemental MediaTailor",
+    "id": "mediatailor",
+    "url": "https://aws.amazon.com/mediatailor/"
+  },
+  {
+    "product_name": "AWS Serverless Application Repository",
+    "id": "serverlessrepo",
+    "url": "https://aws.amazon.com/serverless/serverlessrepo/"
+  },
+  {
+    "product_name": "Amazon Virtual Private Cloud (VPC)",
+    "id": "vpc",
+    "url": "https://aws.amazon.com/vpc/"
+  },
+  {
+    "product_name": "AWS Cloud9",
+    "id": "cloud9",
+    "url": "https://aws.amazon.com/cloud9/"
+  },
+  {
+    "product_name": "Amazon Cognito Sync",
+    "id": "cognito-sync",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon DevOps Guru",
+    "id": "devops-guru",
+    "url": "https://aws.amazon.com/devops-guru/"
+  },
+  {
+    "product_name": "Amazon Kinesis Video Streams",
+    "id": "kinesisvideo",
+    "url": "https://aws.amazon.com/kinesis/video-streams/"
+  },
+  {
+    "product_name": "AWS License Manager",
+    "id": "license-manager",
+    "url": "https://aws.amazon.com/license-manager/"
+  },
+  {
+    "product_name": "Amazon Lumberyard",
+    "id": "lumberyard",
+    "url": "https://aws.amazon.com/lumberyard/"
+  },
+  {
+    "product_name": "Amazon OpenSearch Serverless",
+    "id": "opensearchserverless",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Personalize",
+    "id": "personalize",
+    "url": "https://aws.amazon.com/personalize/"
+  },
+  {
+    "product_name": "Amazon Simple Email Service (SES)",
+    "id": "ses",
+    "url": "https://aws.amazon.com/ses/"
+  },
+  {
+    "product_name": "AWS Server Migration Service (SMS)",
+    "id": "sms",
+    "url": "https://aws.amazon.com/server-migration-service/"
+  },
+  {
+    "product_name": "Amazon Elastic MapReduce (EMR)",
+    "id": "emr",
+    "url": "https://aws.amazon.com/emr/"
+  },
+  {
+    "product_name": "Amazon EMR Containers",
+    "id": "emr-containers",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Kinesis Data Firehose",
+    "id": "firehose",
+    "url": "https://aws.amazon.com/kinesis/firehose/"
+  },
+  {
+    "product_name": "Amazon Glacier",
+    "id": "glacier",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT Fleet Hub",
+    "id": "iotfleethub",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Kinesis Data Streams",
+    "id": "kinesis",
+    "url": "https://aws.amazon.com/kinesis/streams/"
+  },
+  {
+    "product_name": "AWS Marketplace Metering Service",
+    "id": "meteringmarketplace",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Migration Hub Strategy Recommendations",
+    "id": "migrationhubstrategy",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Snowball",
+    "id": "snowball",
+    "url": "https://aws.amazon.com/snowball/"
+  },
+  {
+    "product_name": "Amazon WorkSpaces",
+    "id": "workspaces",
+    "url": "https://aws.amazon.com/workspaces/"
+  },
+  {
+    "product_name": "AWS Private Certificate Authority",
+    "id": "acm-pca",
+    "url": "https://aws.amazon.com/private-ca/"
+  },
+  {
+    "product_name": "AmazonApiGatewayManagementApi",
+    "id": "apigatewaymanagementapi",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon CodeCatalyst",
+    "id": "codecatalyst",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT Analytics",
+    "id": "iotanalytics",
+    "url": "https://aws.amazon.com/iot-analytics/"
+  },
+  {
+    "product_name": "AWS Elemental MediaPackage VOD",
+    "id": "mediapackage-vod",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Elemental MediaStore Data Plane",
+    "id": "mediastore-data",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Quantum Ledger Database (QLDB)",
+    "id": "qldb",
+    "url": "https://aws.amazon.com/qldb/"
+  },
+  {
+    "product_name": "AWS Snowmobile",
+    "id": "snowmobile",
+    "url": "https://aws.amazon.com/snowmobile/"
+  },
+  {
+    "product_name": "AWS Systems Manager Incident Manager Contacts",
+    "id": "ssm-contacts",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Single Sign-On (SSO) OpenID Connect Service",
+    "id": "sso-oidc",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS AppSync",
+    "id": "appsync",
+    "url": "https://aws.amazon.com/appsync/"
+  },
+  {
+    "product_name": "AWS Billing Conductor",
+    "id": "billingconductor",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Connect Campaign Service",
+    "id": "connectcampaigns",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Firewall Manager",
+    "id": "fms",
+    "url": "https://aws.amazon.com/firewall-manager/"
+  },
+  {
+    "product_name": "Amazon CloudWatch Logs",
+    "id": "logs",
+    "url": "https://aws.amazon.com/cloudwatch/"
+  },
+  {
+    "product_name": "AWS Network Firewall",
+    "id": "network-firewall",
+    "url": "https://aws.amazon.com/network-firewall/"
+  },
+  {
+    "product_name": "AWS Private 5G",
+    "id": "privatenetworks",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS RoboMaker",
+    "id": "robomaker",
+    "url": "https://aws.amazon.com/robomaker/"
+  },
+  {
+    "product_name": "AWS Service Catalog App Registry",
+    "id": "servicecatalog-appregistry",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Connect Wisdom Service",
+    "id": "wisdom",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Elastic Load Balancing",
+    "id": "elb",
+    "url": "https://aws.amazon.com/elasticloadbalancing/"
+  },
+  {
+    "product_name": "AWS IoT Core",
+    "id": "iot",
+    "url": "https://aws.amazon.com/iot/"
+  },
+  {
+    "product_name": "AWS Lambda",
+    "id": "lambda",
+    "url": "https://aws.amazon.com/lambda/"
+  },
+  {
+    "product_name": "AWS License Manager User Subscriptions",
+    "id": "license-manager-user-subscriptions",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Elemental MediaStore",
+    "id": "mediastore",
+    "url": "https://aws.amazon.com/mediastore/"
+  },
+  {
+    "product_name": "Amazon Omics",
+    "id": "omics",
+    "url": "https://aws.amazon.com/omics/"
+  },
+  {
+    "product_name": "Red Hat OpenShift Service on AWS (ROSA)",
+    "id": "rosa",
+    "url": "https://aws.amazon.com/rosa/"
+  },
+  {
+    "product_name": "AWS Transfer Family",
+    "id": "transfer",
+    "url": "https://aws.amazon.com/aws-transfer-family/"
+  },
+  {
+    "product_name": "Amazon WorkMail Message Flow",
+    "id": "workmailmessageflow",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS X-Ray",
+    "id": "xray",
+    "url": "https://aws.amazon.com/xray/"
+  },
+  {
+    "product_name": "Route53 Application Recovery Controller - Zonal Shift",
+    "id": "arc-zonal-shift",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Config",
+    "id": "config",
+    "url": "https://aws.amazon.com/config/"
+  },
+  {
+    "product_name": "AWS Directory Service",
+    "id": "ds",
+    "url": "https://aws.amazon.com/directoryservice/"
+  },
+  {
+    "product_name": "Amazon IVS",
+    "id": "ivs",
+    "url": "https://aws.amazon.com/ivs/"
+  },
+  {
+    "product_name": "Amazon Managed Blockchain",
+    "id": "managedblockchain",
+    "url": "https://aws.amazon.com/managed-blockchain/"
+  },
+  {
+    "product_name": "Amazon MemoryDB for Redis",
+    "id": "memorydb",
+    "url": "https://aws.amazon.com/memorydb"
+  },
+  {
+    "product_name": "NetworkManager",
+    "id": "networkmanager",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Pinpoint SMS and Voice Service",
+    "id": "sms-voice",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Support App",
+    "id": "support-app",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon CloudWatch Synthetics",
+    "id": "synthetics",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon AppConfig",
+    "id": "appconfig",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Chime Meetings SDK",
+    "id": "chime-sdk-meetings",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Glue DataBrew",
+    "id": "databrew",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Data Exchange",
+    "id": "dataexchange",
+    "url": "https://aws.amazon.com/data-exchange/"
+  },
+  {
+    "product_name": "Amazon OpenSearch Service",
+    "id": "es",
+    "url": "https://aws.amazon.com/opensearch-service/"
+  },
+  {
+    "product_name": "AWS IAM Identity Center",
+    "id": "identity-center",
+    "url": "https://aws.amazon.com/iam/identity-center/"
+  },
+  {
+    "product_name": "AWS IoT Secured Tunneling",
+    "id": "iotsecuretunneling",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Managed Streaming for Apache Kafka",
+    "id": "kafka",
+    "url": "https://aws.amazon.com/msk/"
+  },
+  {
+    "product_name": "Amazon Relational Database Service (RDS)",
+    "id": "rds",
+    "url": "https://aws.amazon.com/rds/"
+  },
+  {
+    "product_name": "Amazon Security Lake",
+    "id": "securitylake",
+    "url": "https://aws.amazon.com/security-lake/"
+  },
+  {
+    "product_name": "Amazon Cognito",
+    "id": "cognito-identity",
+    "url": "https://aws.amazon.com/cognito/"
+  },
+  {
+    "product_name": "Amazon Detective",
+    "id": "detective",
+    "url": "https://aws.amazon.com/detective/"
+  },
+  {
+    "product_name": "Amazon Elastic Kubernetes Service (EKS)",
+    "id": "eks",
+    "url": "https://aws.amazon.com/eks"
+  },
+  {
+    "product_name": "Amazon GameLift",
+    "id": "gamelift",
+    "url": "https://aws.amazon.com/gamelift/"
+  },
+  {
+    "product_name": "EC2 Image Builder",
+    "id": "imagebuilder",
+    "url": "https://aws.amazon.com/image-builder/"
+  },
+  {
+    "product_name": "Amazon IVS Chat",
+    "id": "ivschat",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Lookout for Equipment",
+    "id": "lookoutequipment",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Elemental MediaConnect",
+    "id": "mediaconnect",
+    "url": "https://aws.amazon.com/mediaconnect"
+  },
+  {
+    "product_name": "Amazon Pinpoint SMS Voice V2",
+    "id": "pinpoint-sms-voice-v2",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Verified Permissions",
+    "id": "verifiedpermissions",
+    "url": "https://aws.amazon.com/verified-permissions/"
+  },
+  {
+    "product_name": "Amazon Chime SDK Media Pipelines",
+    "id": "chime-sdk-media-pipelines",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Comprehend Medical",
+    "id": "comprehendmedical",
+    "url": "https://aws.amazon.com/comprehend/medical/"
+  },
+  {
+    "product_name": "AWS Control Tower",
+    "id": "controltower",
+    "url": "https://aws.amazon.com/controltower"
+  },
+  {
+    "product_name": "Amazon Elastic Container Registry (ECR)",
+    "id": "ecr",
+    "url": "https://aws.amazon.com/ecr/"
+  },
+  {
+    "product_name": "Amazon CloudWatch Events",
+    "id": "events",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Honeycode",
+    "id": "honeycode",
+    "url": "https://www.honeycode.aws/"
+  },
+  {
+    "product_name": "AWS IoT 1-Click Devices Service",
+    "id": "iot1click-devices",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Macie",
+    "id": "macie",
+    "url": "https://aws.amazon.com/macie/"
+  },
+  {
+    "product_name": "Amazon Monitron",
+    "id": "monitron",
+    "url": "https://aws.amazon.com/pm/monitron/"
+  },
+  {
+    "product_name": "AWS Resource Groups Tagging API",
+    "id": "resourcegroupstaggingapi",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Batch",
+    "id": "batch",
+    "url": "https://aws.amazon.com/batch/"
+  },
+  {
+    "product_name": "Amazon Braket",
+    "id": "braket",
+    "url": "https://aws.amazon.com/braket/"
+  },
+  {
+    "product_name": "Amazon Chime",
+    "id": "chime",
+    "url": "https://chime.aws/"
+  },
+  {
+    "product_name": "Amazon Elastic Container Registry Public",
+    "id": "ecr-public",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT Events",
+    "id": "iotevents",
+    "url": "https://aws.amazon.com/iot-events/"
+  },
+  {
+    "product_name": "Migration Hub Orchestrator",
+    "id": "migrationhuborchestrator",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Resource Access Manager (RAM)",
+    "id": "ram",
+    "url": "https://aws.amazon.com/ram/"
+  },
+  {
+    "product_name": "AWS Resilience Hub",
+    "id": "resiliencehub",
+    "url": "https://aws.amazon.com/resilience-hub/"
+  },
+  {
+    "product_name": "Amazon Voice ID",
+    "id": "voice-id",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon WorkSpaces Web",
+    "id": "workspaces-web",
+    "url": "https://aws.amazon.com/workspaces/web/"
+  },
+  {
+    "product_name": "AWS Budgets",
+    "id": "budgets",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-budgets/"
+  },
+  {
+    "product_name": "AWS Clean Rooms",
+    "id": "cleanrooms",
+    "url": "https://aws.amazon.com/clean-rooms/"
+  },
+  {
+    "product_name": "AWS Cost and Usage Report",
+    "id": "cur",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/"
+  },
+  {
+    "product_name": "AWS Marketplace Catalog API",
+    "id": "marketplace-catalog",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Organizations",
+    "id": "organizations",
+    "url": "https://aws.amazon.com/organizations"
+  },
+  {
+    "product_name": "Amazon SageMaker Metrics",
+    "id": "sagemaker-metrics",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Service Quotas",
+    "id": "service-quotas",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Cloud Map",
+    "id": "servicediscovery",
+    "url": "https://aws.amazon.com/cloud-map/"
+  },
+  {
+    "product_name": "AWS Security Token Service",
+    "id": "sts",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Timestream Write Service",
+    "id": "timestream-write",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AmplifyUIBuilder",
+    "id": "amplifyuibuilder",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS CodeStar Notifications",
+    "id": "codestar-notifications",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS DeepRacer",
+    "id": "deepracer",
+    "url": "https://aws.amazon.com/deepracer/"
+  },
+  {
+    "product_name": "Amazon Forecast",
+    "id": "forecast",
+    "url": "https://aws.amazon.com/forecast/"
+  },
+  {
+    "product_name": "Amazon Pinpoint",
+    "id": "pinpoint",
+    "url": "https://aws.amazon.com/pinpoint/"
+  },
+  {
+    "product_name": "AWS Events Pipes",
+    "id": "pipes",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Price List Service",
+    "id": "pricing",
+    "url": "unknown"
+  },
+  {
+    "product_name": "SnowDeviceManagement",
+    "id": "snow-device-management",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Storage Gateway",
+    "id": "storagegateway",
+    "url": "https://aws.amazon.com/storagegateway/"
+  },
+  {
+    "product_name": "VMware Cloud on AWS",
+    "id": "vmwarecloudonaws",
+    "url": "https://aws.amazon.com/vmware/"
+  },
+  {
+    "product_name": "Amazon AppFlow",
+    "id": "appflow",
+    "url": "https://aws.amazon.com/appflow/"
+  },
+  {
+    "product_name": "AWS Application Cost Profiler",
+    "id": "applicationcostprofiler",
+    "url": "unknown"
+  },
+  {
+    "product_name": "FreeRTOS",
+    "id": "freertosota",
+    "url": "https://aws.amazon.com/freertos/"
+  },
+  {
+    "product_name": "Amazon FSx for Lustre",
+    "id": "fsx-lustre",
+    "url": "https://aws.amazon.com/fsx/lustre/"
+  },
+  {
+    "product_name": "Internet Monitor",
+    "id": "internetmonitor",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT RoboRunner",
+    "id": "iot-roborunner",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Kinesis Data Analytics",
+    "id": "kinesisanalytics",
+    "url": "https://aws.amazon.com/kinesis/analytics/"
+  },
+  {
+    "product_name": "AWS Service Catalog",
+    "id": "servicecatalog",
+    "url": "https://aws.amazon.com/servicecatalog/"
+  },
+  {
+    "product_name": "Amazon Textract",
+    "id": "textract",
+    "url": "https://aws.amazon.com/textract"
+  },
+  {
+    "product_name": "Amazon VPC Lattice",
+    "id": "vpc-lattice",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon HealthLake",
+    "id": "ahl",
+    "url": "https://aws.amazon.com/healthlake/"
+  },
+  {
+    "product_name": "Amazon CodeGuru",
+    "id": "codeguruprofiler",
+    "url": "https://aws.amazon.com/codeguru/"
+  },
+  {
+    "product_name": "AWS Database Migration Service",
+    "id": "dms",
+    "url": "https://aws.amazon.com/dms/"
+  },
+  {
+    "product_name": "AWS Fargate",
+    "id": "fargate",
+    "url": "https://aws.amazon.com/fargate/"
+  },
+  {
+    "product_name": "AWS IoT Device Management",
+    "id": "iotdevicemanagement",
+    "url": "https://aws.amazon.com/iot-device-management/"
+  },
+  {
+    "product_name": "AWS IoT FleetWise",
+    "id": "iotfleetwise",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS IoT TwinMaker",
+    "id": "iottwinmaker",
+    "url": "https://aws.amazon.com/iot-twinmaker/"
+  },
+  {
+    "product_name": "Amazon Mechanical Turk",
+    "id": "mturk",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Security Hub",
+    "id": "securityhub",
+    "url": "https://aws.amazon.com/security-hub/"
+  },
+  {
+    "product_name": "AWS Systems Manager",
+    "id": "ssm",
+    "url": "https://aws.amazon.com/systems-manager/"
+  },
+  {
+    "product_name": "AWS Account Management",
+    "id": "account",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Cognito Identity User Pools",
+    "id": "cognito-idp",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Mainframe Modernization",
+    "id": "m2",
+    "url": "https://aws.amazon.com/mainframe-modernization/"
+  },
+  {
+    "product_name": "AWS Migration Hub Refactor Spaces",
+    "id": "migration-hub-refactor-spaces",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Pinpoint Email Service",
+    "id": "pinpoint-email",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Redshift",
+    "id": "redshift",
+    "url": "https://aws.amazon.com/redshift/"
+  },
+  {
+    "product_name": "RUMControlPlaneLambda",
+    "id": "rum",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS EventBridge Schemas",
+    "id": "schemas",
+    "url": "unknown"
+  },
+  {
+    "product_name": "SSM Incidents",
+    "id": "ssm-incidents",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Timestream",
+    "id": "timestream",
+    "url": "https://aws.amazon.com/timestream"
+  },
+  {
+    "product_name": "AWS Elastic Disaster Recovery (DRS)",
+    "id": "drs",
+    "url": "https://aws.amazon.com/disaster-recovery/"
+  },
+  {
+    "product_name": "Amazon EMR Serverless",
+    "id": "emr-serverless",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS Global Accelerator",
+    "id": "globalaccelerator",
+    "url": "https://aws.amazon.com/global-accelerator"
+  },
+  {
+    "product_name": "Amazon Interactive Video Service RealTime",
+    "id": "ivs-realtime",
+    "url": "unknown"
+  },
+  {
+    "product_name": "Amazon Lex Model Building V2",
+    "id": "lexv2-models",
+    "url": "unknown"
+  },
+  {
+    "product_name": "AWS OpsWorks Stacks",
+    "id": "opsworks",
+    "url": "https://aws.amazon.com/opsworks/stacks/"
+  },
+  {
+    "product_name": "Amazon Polly",
+    "id": "polly",
+    "url": "https://aws.amazon.com/polly/"
+  },
+  {
+    "product_name": "AWS S3 Control",
+    "id": "s3control",
+    "url": "unknown"
+  }
+]

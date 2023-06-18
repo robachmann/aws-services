@@ -18,6 +18,42 @@
     "url": "https://aws.amazon.com/athena/"
   },
   {
+    "id": "managedstreamingforapachekafkamskserverless",
+    "name": "amazon-managed-streaming-for-apache-kafka-amazon-msk-serverless",
+    "product_name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) Serverless (Preview)",
+    "category": "Analytics",
+    "date": "2021-11-30",
+    "summary": "Easily stream data with Amazon MSK without managing cluster capacity",
+    "url": "https://aws.amazon.com/msk/features/msk-serverless/"
+  },
+  {
+    "id": "redshiftintegrationforapachespark",
+    "name": "amazon-redshift-integration-for-apache-spark",
+    "product_name": "Amazon Redshift Integration for Apache Spark",
+    "category": "Analytics",
+    "date": "2022-11-29",
+    "summary": "Build Apache Spark apps that read and write data from Amazon Redshift",
+    "url": "https://aws.amazon.com/redshift/features/integration-for-apache-spark/"
+  },
+  {
+    "id": "automateddataprepforquicksightq",
+    "name": "automated-data-prep-for-amazon-quicksight-q",
+    "product_name": "Automated data-prep for Amazon QuickSight Q",
+    "category": "Analytics",
+    "date": "2022-11-29",
+    "summary": "Answer your business questions by quickly and easily enabling your data for natural language search",
+    "url": "https://aws.amazon.com/blogs/aws/new-announcing-automated-data-preparation-for-amazon-quicksight-q/"
+  },
+  {
+    "id": "apachesparksupportonathena",
+    "name": "apache-spark-support-on-amazon-athena",
+    "product_name": "Apache Spark support on Amazon Athena",
+    "category": "Analytics",
+    "date": "2022-11-30",
+    "summary": "Run interactive analytics on Apache Spark in under a second",
+    "url": "https://aws.amazon.com/athena/spark/"
+  },
+  {
     "id": "datapipeline",
     "name": "aws-data-pipeline",
     "product_name": "AWS Data Pipeline",
@@ -27,6 +63,15 @@
     "url": "https://aws.amazon.com/datapipeline/"
   },
   {
+    "id": "newexpandedapicapabilitiesinquicksight",
+    "name": "new-expanded-api-capabilities-in-amazon-quicksight",
+    "product_name": "New expanded API capabilities in Amazon QuickSight",
+    "category": "Analytics",
+    "date": "2022-11-28",
+    "summary": "Programmatically create and manage dashboards in Amazon QuickSight and accelerate migration to the cloud",
+    "url": "https://aws.amazon.com/blogs/aws/new-amazon-quicksight-api-capabilities-to-accelerate-your-bi-transformation/"
+  },
+  {
     "id": "datazone",
     "name": "amazon-datazone",
     "product_name": "Amazon DataZone (Preview)",
@@ -34,6 +79,15 @@
     "date": "2022-11-29",
     "summary": "Unlock data across organizational boundaries with built-in governance",
     "url": "https://aws.amazon.com/datazone/"
+  },
+  {
+    "id": "glueforray",
+    "name": "aws-glue-for-ray",
+    "product_name": "AWS Glue for Ray (Preview)",
+    "category": "Analytics",
+    "date": "2022-11-28",
+    "summary": "Scale and simplify with Python code for ETL, made serverless",
+    "url": "https://aws.amazon.com/glue/features/engines/"
   },
   {
     "id": "finspace",
@@ -52,6 +106,24 @@
     "date": "2019-08-09",
     "summary": "Build a secure data lake in days",
     "url": "https://aws.amazon.com/lake-formation/"
+  },
+  {
+    "id": "redshiftserverless",
+    "name": "amazon-redshift-serverless",
+    "product_name": "Amazon Redshift Serverless (Preview)",
+    "category": "Analytics",
+    "date": "2021-11-30",
+    "summary": "Get insights in seconds without having to manage your data warehouse",
+    "url": "https://aws.amazon.com/redshift/redshift-serverless/"
+  },
+  {
+    "id": "opensearchserverless",
+    "name": "amazon-opensearch-serverless",
+    "product_name": "Amazon OpenSearch Serverless (Preview)",
+    "category": "Analytics",
+    "date": "2022-11-29",
+    "summary": "Deliver search and log analytics without provisioning and adjusting resources",
+    "url": "https://aws.amazon.com/opensearch-service/features/serverless/"
   },
   {
     "id": "kinesis",
@@ -79,6 +151,24 @@
     "date": "2009-04-02",
     "summary": "Hosted Hadoop framework",
     "url": "https://aws.amazon.com/emr/"
+  },
+  {
+    "id": "emrserverless",
+    "name": "amazon-emr-serverless",
+    "product_name": "Amazon EMR Serverless (Preview)",
+    "category": "Analytics",
+    "date": "2021-11-30",
+    "summary": "Run big data applications using open-source frameworks without managing clusters and servers",
+    "url": "https://aws.amazon.com/emr/serverless/"
+  },
+  {
+    "id": "gluedataquality",
+    "name": "aws-glue-data-quality",
+    "product_name": "AWS Glue Data Quality (Preview)",
+    "category": "Analytics",
+    "date": "2022-11-30",
+    "summary": "Deliver high-quality data across your data lakes and pipelines",
+    "url": "https://aws.amazon.com/glue/features/data-quality/"
   },
   {
     "id": "dataexchange",
@@ -115,6 +205,15 @@
     "date": "2015-10-01",
     "summary": "Search, visualize, and analyze up to petabytes of text and unstructured data",
     "url": "https://aws.amazon.com/opensearch-service/"
+  },
+  {
+    "id": "quicksightpaginatedreports",
+    "name": "amazon-quicksight-paginated-reports",
+    "product_name": "Amazon QuickSight Paginated Reports",
+    "category": "Analytics",
+    "date": "2022-11-28",
+    "summary": "Create, schedule, and share reports and data exports",
+    "url": "https://aws.amazon.com/quicksight/paginated-reports/"
   },
   {
     "id": "cleanrooms",
@@ -225,6 +324,15 @@
     "url": "https://aws.amazon.com/aws-supply-chain/"
   },
   {
+    "id": "connectforecastingcapacityplanningandscheduling",
+    "name": "amazon-connect-forecasting-capacity-planning-and-scheduling",
+    "product_name": "Amazon Connect forecasting, capacity planning, and scheduling",
+    "category": "Business Applications",
+    "date": "2022-11-29",
+    "summary": "Respond faster to capacity and workforce changes with ML-powered contact center capabilities",
+    "url": "https://aws.amazon.com/connect/optimization/"
+  },
+  {
     "id": "wickr",
     "name": "aws-wickr",
     "product_name": "AWS Wickr",
@@ -243,6 +351,15 @@
     "url": "https://aws.amazon.com/workmail/"
   },
   {
+    "id": "callsummarizationincontactlensforconnect",
+    "name": "call-summarization-in-contact-lens-for-amazon-connect",
+    "product_name": "Call summarization in Contact Lens for Amazon Connect",
+    "category": "Business Applications",
+    "date": "2021-11-30",
+    "summary": "Generate customer call summaries automatically using machine learning",
+    "url": "https://aws.amazon.com/connect/contact-lens/"
+  },
+  {
     "id": "workdocs",
     "name": "amazon-workdocs",
     "product_name": "Amazon WorkDocs",
@@ -259,6 +376,15 @@
     "date": "2017-11-30",
     "summary": "Empower your organization with Alexa",
     "url": "https://aws.amazon.com/alexaforbusiness/"
+  },
+  {
+    "id": "stepbystepguidesforconnectagentworkspace",
+    "name": "step-by-step-guides-for-amazon-connect-agent-workspace",
+    "product_name": "Step-by-step guides for Amazon Connect agent workspace (Preview)",
+    "category": "Business Applications",
+    "date": "2022-11-29",
+    "summary": "Resolve contact center customer issues faster and more accurately",
+    "url": "https://aws.amazon.com/connect/agent-workspace/"
   },
   {
     "id": "connect",
@@ -360,6 +486,42 @@
     "url": "https://aws.amazon.com/compute-optimizer/"
   },
   {
+    "id": "ec2trn1instances",
+    "name": "amazon-ec2-trn1-instances",
+    "product_name": "Amazon EC2 Trn1 Instances (Preview)",
+    "category": "Compute",
+    "date": "2021-11-30",
+    "summary": "The best price performance for training deep learning models in the cloud",
+    "url": "https://aws.amazon.com/ec2/instance-types/trn1/"
+  },
+  {
+    "id": "ec2c7ginstancesgraviton3",
+    "name": "amazon-ec2-c7g-instances-graviton3",
+    "product_name": "Amazon EC2 C7g Instances & Graviton3 (Preview)",
+    "category": "Compute",
+    "date": "2021-11-30",
+    "summary": "Best price performance for compute-intensive workloads in Amazon EC2",
+    "url": "https://aws.amazon.com/ec2/instance-types/c7g/"
+  },
+  {
+    "id": "ec2hpc7ginstances",
+    "name": "amazon-ec2-hpc7g-instances",
+    "product_name": "Amazon EC2 Hpc7g Instances (Coming Soon)",
+    "category": "Compute",
+    "date": "2022-11-28",
+    "summary": "Deliver up to 60% better performance over comparable previous generation instances for compute-intensive workloads",
+    "url": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-instance-types-in-the-works-c7gn-r7iz-and-hpc7g/"
+  },
+  {
+    "id": "ec2c7gninstances",
+    "name": "amazon-ec2-c7gn-instances",
+    "product_name": "Amazon EC2 C7gn Instances (Preview)",
+    "category": "Compute",
+    "date": "2022-11-28",
+    "summary": "Graviton compute optimized instances with up to 200 Gbps of networking bandwidth",
+    "url": "https://aws.amazon.com/ec2/instance-types/c7g/"
+  },
+  {
     "id": "simspaceweaver",
     "name": "aws-simspace-weaver",
     "product_name": "AWS SimSpace Weaver",
@@ -396,6 +558,15 @@
     "url": "https://aws.amazon.com/ec2/autoscaling/"
   },
   {
+    "id": "ec2m1macinstances",
+    "name": "amazon-ec2-m1-mac-instances",
+    "product_name": "Amazon EC2 M1 Mac Instances (Preview)",
+    "category": "Compute",
+    "date": "2021-12-02",
+    "summary": "Better application build performance and faster tests for macOS",
+    "url": "https://aws.amazon.com/ec2/instance-types/mac/"
+  },
+  {
     "id": "localzones",
     "name": "local-zones",
     "product_name": "AWS Local Zones",
@@ -403,6 +574,33 @@
     "date": "2019-12-03",
     "summary": "Run latency sensitive applications closer to end users",
     "url": "https://aws.amazon.com/about-aws/global-infrastructure/localzones/"
+  },
+  {
+    "id": "outposts1uand2u",
+    "name": "aws-outposts-1u-and-2u",
+    "product_name": "AWS Outposts 1U and 2U",
+    "category": "Compute",
+    "date": "2021-11-30",
+    "summary": "Run AWS Outposts in smaller locations",
+    "url": "https://aws.amazon.com/outposts/servers/"
+  },
+  {
+    "id": "ec2i4iinstances",
+    "name": "amazon-ec2-i4i-instances",
+    "product_name": "Amazon EC2 I4i Instances (Coming Soon)",
+    "category": "Compute",
+    "date": "2021-11-30",
+    "summary": "The highest local storage performance in Amazon EC2",
+    "url": "https://aws.amazon.com/ec2/instance-types/i4i/"
+  },
+  {
+    "id": "lambdasnapstart",
+    "name": "aws-lambda-snapstart",
+    "product_name": "AWS Lambda SnapStart",
+    "category": "Compute",
+    "date": "2022-11-28",
+    "summary": "Achieve up to 10x faster Java function startup times",
+    "url": "https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/"
   },
   {
     "id": "lambda",
@@ -441,6 +639,24 @@
     "url": "https://aws.amazon.com/ec2/"
   },
   {
+    "id": "ec2g5ginstances",
+    "name": "amazon-ec2-g5g-instances",
+    "product_name": "Amazon EC2 G5g Instances",
+    "category": "Compute",
+    "date": "2021-11-29",
+    "summary": "Best price performance in Amazon EC2 for Android game streaming",
+    "url": "https://aws.amazon.com/ec2/instance-types/g5g/"
+  },
+  {
+    "id": "ec2hpc6idinstances",
+    "name": "amazon-ec2-hpc6id-instances",
+    "product_name": "Amazon EC2 Hpc6id instances",
+    "category": "Compute",
+    "date": "2022-11-29",
+    "summary": "Amazon EC2 Hpc6id instances deliver cost-effective price performance for data-intensive HPC workloads",
+    "url": "https://aws.amazon.com/ec2/instance-types/hpc6i/"
+  },
+  {
     "id": "autoscaling",
     "name": "aws-auto-scaling",
     "product_name": "AWS Auto Scaling",
@@ -459,6 +675,15 @@
     "url": "https://aws.amazon.com/ec2/spot/"
   },
   {
+    "id": "snowfamilycompute",
+    "name": "aws-snow-family-compute",
+    "product_name": "AWS Snow Family",
+    "category": "Compute",
+    "date": "2015-10-07",
+    "summary": "Physical devices to aggregate and process data in edge locations, then transer to AWS",
+    "url": "https://aws.amazon.com/snow/"
+  },
+  {
     "id": "wavelength",
     "name": "aws-wavelength",
     "product_name": "AWS Wavelength",
@@ -466,6 +691,15 @@
     "date": "2019-12-03",
     "summary": "Deliver ultra-low latency applications for 5G devices",
     "url": "https://aws.amazon.com/wavelength/"
+  },
+  {
+    "id": "ec2x2iezninstances",
+    "name": "amazon-ec2-x2iezn-instances",
+    "product_name": "Amazon EC2 X2iezn Instances (Coming Soon)",
+    "category": "Compute",
+    "date": "2021-11-29",
+    "summary": "The fastest Intel Xeon Scalable processor in the cloud",
+    "url": "https://aws.amazon.com/ec2/instance-types/x2i/"
   },
   {
     "id": "outposts",
@@ -484,6 +718,51 @@
     "date": "2016-11-30",
     "summary": "Launch and manage virtual private servers",
     "url": "https://aws.amazon.com/lightsail/"
+  },
+  {
+    "id": "ec2m6ainstances",
+    "name": "amazon-ec2-m6a-instances",
+    "product_name": "Amazon EC2 M6a Instances",
+    "category": "Compute",
+    "date": "2021-11-29",
+    "summary": "General purpose instances powered by 3rd generation AMD EPYC processors",
+    "url": "https://aws.amazon.com/ec2/instance-types/m6a/"
+  },
+  {
+    "id": "ec2im4gnis4geninstances",
+    "name": "amazon-ec2-im4gn-is4gen-instances",
+    "product_name": "Amazon EC2 Im4gn/Is4gen Instances",
+    "category": "Compute",
+    "date": "2021-11-30",
+    "summary": "Best price performance and lowest cost SSD-based storage in Amazon EC2",
+    "url": "https://aws.amazon.com/ec2/instance-types/i4g/"
+  },
+  {
+    "id": "ec2x2idnx2iedninstances",
+    "name": "amazon-ec2-x2idn-x2iedn-instances",
+    "product_name": "Amazon EC2 X2idn/X2iedn Instances (Coming Soon)",
+    "category": "Compute",
+    "date": "2021-11-29",
+    "summary": "Up to 50% better compute price performance than previous generation instances",
+    "url": "https://aws.amazon.com/ec2/instance-types/x2i/"
+  },
+  {
+    "id": "localzonesnowgenerallyavailableinbuenosairescopenhagenhelsinkiandmuscat",
+    "name": "local-zones-now-generally-available-in-buenos-aires-copenhagen-helsinki-and-muscat",
+    "product_name": "Local Zones now generally available in Buenos Aires, Copenhagen, Helsinki and Muscat",
+    "category": "Compute",
+    "date": "2022-11-28",
+    "summary": "Bringing AWS Cloud to millions of users in 4 new metros",
+    "url": "https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/"
+  },
+  {
+    "id": "ec2inf2instances",
+    "name": "amazon-ec2-inf2-instances",
+    "product_name": "Amazon EC2 Inf2 Instances  (Preview)",
+    "category": "Compute",
+    "date": "2022-11-29",
+    "summary": "High performance at the lowest cost in Amazon EC2 for the most demanding inference workloads",
+    "url": "https://aws.amazon.com/ec2/instance-types/inf2/"
   },
   {
     "id": "elastickubernetesserviceeks",
@@ -520,6 +799,15 @@
     "date": "2020-07-01",
     "summary": "Containerize and migrate existing applications",
     "url": "https://aws.amazon.com/app2container/"
+  },
+  {
+    "id": "marketplaceforcontainersanywhere",
+    "name": "aws-marketplace-for-containers-anywhere",
+    "product_name": "AWS Marketplace for Containers Anywhere",
+    "category": "Containers",
+    "date": "2021-11-29",
+    "summary": "Find, subscribe to, and deploy third-party applications that run in any Kubernetes environment",
+    "url": "https://aws.amazon.com/marketplace/features/containers/"
   },
   {
     "id": "elasticcontainerregistry",
@@ -565,6 +853,24 @@
     "date": "2012-01-18",
     "summary": "Managed NoSQL database",
     "url": "https://aws.amazon.com/dynamodb/"
+  },
+  {
+    "id": "rdscustomforsqlserver",
+    "name": "amazon-rds-custom-for-sql-server",
+    "product_name": "Amazon RDS Custom for SQL Server",
+    "category": "Databases",
+    "date": "2021-12-01",
+    "summary": "Managed database services for applications that require operating system and database customization",
+    "url": "https://aws.amazon.com/rds/custom/"
+  },
+  {
+    "id": "aurorazeroetlintegrationwithredshift",
+    "name": "amazon-aurora-zero-etl-integration-with-amazon-redshift",
+    "product_name": "Amazon Aurora zero-ETL integration with Amazon Redshift (Preview)",
+    "category": "Databases",
+    "date": "2022-11-29",
+    "summary": "Amazon Aurora now supports zero-ETL integration with Amazon Redshift",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/"
   },
   {
     "id": "documentdbwithmongodbcompatibility",
@@ -864,6 +1170,15 @@
     "url": "https://aws.amazon.com/amplify/"
   },
   {
+    "id": "amplifystudio",
+    "name": "aws-amplify-studio",
+    "product_name": "AWS Amplify Studio (Preview)",
+    "category": "Front-End Web & Mobile",
+    "date": "2021-12-02",
+    "summary": "Extend AWS Amplify with a visual development environment for creating apps with minimal coding",
+    "url": "https://aws.amazon.com/amplify/studio/"
+  },
+  {
     "id": "lumberyard",
     "name": "amazon-lumberyard",
     "product_name": "Amazon Lumberyard",
@@ -880,6 +1195,15 @@
     "date": "2016-02-09",
     "summary": "Simple, fast, cost-effective dedicated game server hosting",
     "url": "https://aws.amazon.com/gamelift/"
+  },
+  {
+    "id": "open3dengineo3de",
+    "name": "open-3d-engine-o3de",
+    "product_name": "Open 3D Engine (O3DE)",
+    "category": "Game Tech",
+    "date": "2021-12-02",
+    "summary": "Build games and 3D simulations with O3DE",
+    "url": "https://aws.amazon.com/lumberyard/"
   },
   {
     "id": "iotanalytics",
@@ -1017,6 +1341,15 @@
     "url": "https://aws.amazon.com/iot-sitewise/"
   },
   {
+    "id": "iotexpresslink",
+    "name": "aws-iot-expresslink",
+    "product_name": "AWS IoT ExpressLink (Preview)",
+    "category": "Internet of Things",
+    "date": "2021-11-30",
+    "summary": "Quickly and easily develop secure IoT devices",
+    "url": "https://aws.amazon.com/iot-expresslink/"
+  },
+  {
     "id": "monitron",
     "name": "amazon-monitron",
     "product_name": "Amazon Monitron",
@@ -1089,6 +1422,24 @@
     "url": "https://aws.amazon.com/sagemaker/"
   },
   {
+    "id": "sagemakercanvas",
+    "name": "amazon-sagemaker-canvas",
+    "product_name": "Amazon SageMaker Canvas",
+    "category": "Machine Learning",
+    "date": "2021-11-30",
+    "summary": "Generate accurate machine learning predictions - no code required",
+    "url": "https://aws.amazon.com/sagemaker/canvas/"
+  },
+  {
+    "id": "sagemakernowsupportsgeospatialml",
+    "name": "amazon-sagemaker-now-supports-geospatial-ml",
+    "product_name": "Amazon SageMaker now supports geospatial ML (Preview)",
+    "category": "Machine Learning",
+    "date": "2022-11-30",
+    "summary": "Build, train, and deploy ML models using geospatial data",
+    "url": "https://aws.amazon.com/sagemaker/geospatial/"
+  },
+  {
     "id": "lookoutforvision",
     "name": "amazon-lookout-for-vision",
     "product_name": "Amazon Lookout for Vision",
@@ -1123,6 +1474,24 @@
     "date": "2019-06-10",
     "summary": "Build real-time recommendations into your applications",
     "url": "https://aws.amazon.com/personalize/"
+  },
+  {
+    "id": "lexautomatedchatbotdesigner",
+    "name": "amazon-lex-automated-chatbot-designer",
+    "product_name": "Amazon Lex Automated Chatbot Designer (Preview)",
+    "category": "Machine Learning",
+    "date": "2021-12-01",
+    "summary": "Design chatbots using existing conversation transcripts",
+    "url": "https://aws.amazon.com/lex/chatbot-designer/"
+  },
+  {
+    "id": "sagemakertrainingcompiler",
+    "name": "amazon-sagemaker-training-compiler",
+    "product_name": "Amazon SageMaker Training Compiler",
+    "category": "Machine Learning",
+    "date": "2021-12-01",
+    "summary": "Train ML models quickly and cost-effectively with Amazon SageMaker",
+    "url": "https://aws.amazon.com/sagemaker/train/"
   },
   {
     "id": "frauddetector",
@@ -1195,6 +1564,24 @@
     "date": "2017-11-29",
     "summary": "Deep learning enabled video camera",
     "url": "https://aws.amazon.com/deeplens/"
+  },
+  {
+    "id": "sagemakerstudiolab",
+    "name": "amazon-sagemaker-studio-lab",
+    "product_name": "Amazon SageMaker Studio Lab",
+    "category": "Machine Learning",
+    "date": "2021-12-01",
+    "summary": "Learn and experiment with ML using free, no-configuration Jupyter Notebooks in the cloud",
+    "url": "https://aws.amazon.com/sagemaker/studio-lab/"
+  },
+  {
+    "id": "sagemakergroundtruthplus",
+    "name": "amazon-sagemaker-ground-truth-plus",
+    "product_name": "Amazon SageMaker Ground Truth Plus",
+    "category": "Machine Learning",
+    "date": "2021-12-01",
+    "summary": "Create high-quality datasets for training machine learning models",
+    "url": "https://aws.amazon.com/sagemaker/data-labeling/"
   },
   {
     "id": "apachemxneton",
@@ -1305,6 +1692,15 @@
     "url": "https://aws.amazon.com/comprehend/"
   },
   {
+    "id": "devopsguruforrds",
+    "name": "amazon-devops-guru-for-rds",
+    "product_name": "Amazon DevOps Guru for RDS",
+    "category": "Machine Learning",
+    "date": "2021-12-01",
+    "summary": "Detect, diagnose, and remediate performance issues in Amazon RDS",
+    "url": "https://aws.amazon.com/devops-guru/features/devops-guru-for-rds/"
+  },
+  {
     "id": "omics",
     "name": "amazon-omics",
     "product_name": "Amazon Omics",
@@ -1312,6 +1708,15 @@
     "date": "2022-11-29",
     "summary": "Transform omics data into insights",
     "url": "https://aws.amazon.com/omics/"
+  },
+  {
+    "id": "mlgovernancewithsagemaker",
+    "name": "ml-governance-with-amazon-sagemaker",
+    "product_name": "ML Governance with Amazon SageMaker (Preview)",
+    "category": "Machine Learning",
+    "date": "2022-11-30",
+    "summary": "Simplify access control and enhance transparency",
+    "url": "https://aws.amazon.com/sagemaker/ml-governance/"
   },
   {
     "id": "codewhisperer",
@@ -1438,6 +1843,24 @@
     "date": "2011-02-25",
     "summary": "Create and manage resources with templates",
     "url": "https://aws.amazon.com/cloudformation/"
+  },
+  {
+    "id": "controltowerdataresidencyguardrails",
+    "name": "aws-control-tower-data-residency-guardrails",
+    "product_name": "AWS Control Tower Data Residency Guardrails",
+    "category": "Management & Governance",
+    "date": "2021-11-30",
+    "summary": "Keep your customer data in specific AWS Regions",
+    "url": "https://aws.amazon.com/controltower/"
+  },
+  {
+    "id": "cloudwatchinternetmonitor",
+    "name": "amazon-cloudwatch-internet-monitor",
+    "product_name": "Amazon CloudWatch Internet Monitor (Preview)",
+    "category": "Management & Governance",
+    "date": "2022-11-27",
+    "summary": "Visualize your application&#39;s global internet health and diagnose issues in minutes, not days",
+    "url": "https://aws.amazon.com/cloudwatch/features/"
   },
   {
     "id": "servicemanagementconnector",
@@ -1674,6 +2097,15 @@
     "url": "https://aws.amazon.com/aws-transfer-family/"
   },
   {
+    "id": "snowfamilymigration",
+    "name": "aws-snow-family-migration",
+    "product_name": "AWS Snow Family",
+    "category": "Migration",
+    "date": "2015-10-07",
+    "summary": "Physical devices to migrate data into and out of AWS",
+    "url": "https://aws.amazon.com/snow/"
+  },
+  {
     "id": "datasync",
     "name": "aws-datasync",
     "product_name": "AWS DataSync",
@@ -1773,6 +2205,15 @@
     "url": "https://aws.amazon.com/vpn/"
   },
   {
+    "id": "vpclattice",
+    "name": "amazon-vpc-lattice",
+    "product_name": "Amazon VPC Lattice (Preview)",
+    "category": "Networking & Content Delivery",
+    "date": "2022-11-29",
+    "summary": "Simplify service-to-service connectivity, security, and monitoring",
+    "url": "https://aws.amazon.com/vpc/lattice/"
+  },
+  {
     "id": "verifiedaccess",
     "name": "aws-verified-access",
     "product_name": "AWS Verified Access (Preview)",
@@ -1825,6 +2266,15 @@
     "date": "2011-08-03",
     "summary": "Isolated cloud resources",
     "url": "https://aws.amazon.com/vpc/"
+  },
+  {
+    "id": "cloudwan",
+    "name": "aws-cloud-wan",
+    "product_name": "AWS Cloud WAN",
+    "category": "Networking & Content Delivery",
+    "date": "2022-07-12",
+    "summary": "Easily build, manage, and monitor global wide area networks",
+    "url": "https://aws.amazon.com/cloud-wan/"
   },
   {
     "id": "braket",
@@ -2079,6 +2529,24 @@
     "url": "https://aws.amazon.com/disaster-recovery/"
   },
   {
+    "id": "s3glacierinstantretrieval",
+    "name": "amazon-s3-glacier-instant-retrieval",
+    "product_name": "Amazon S3 Glacier Instant Retrieval",
+    "category": "Storage",
+    "date": "2021-11-30",
+    "summary": "Lowest cost storage with milliseconds retrieval for rarely accessed data",
+    "url": "https://aws.amazon.com/s3/storage-classes/glacier/instant-retrieval/"
+  },
+  {
+    "id": "ebssnapshotsarchive",
+    "name": "amazon-ebs-snapshots-archive",
+    "product_name": "Amazon EBS Snapshots Archive",
+    "category": "Storage",
+    "date": "2021-11-29",
+    "summary": "Archive EBS Snapshots and save up to 75% in snapshot storage costs",
+    "url": "https://aws.amazon.com/ebs/snapshots/"
+  },
+  {
     "id": "fsx",
     "name": "amazon-fsx",
     "product_name": "Amazon FSx",
@@ -2086,6 +2554,15 @@
     "date": "2018-11-28",
     "summary": "Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks",
     "url": "https://aws.amazon.com/fsx/"
+  },
+  {
+    "id": "backupsupportforvmwareworkloads",
+    "name": "aws-backup-support-for-vmware-workloads",
+    "product_name": "AWS Backup support for VMware workloads",
+    "category": "Storage",
+    "date": "2021-11-30",
+    "summary": "Centrally protect hybrid VMware environments",
+    "url": "https://aws.amazon.com/backup/features/vmware/"
   },
   {
     "id": "glacier",
@@ -2097,6 +2574,15 @@
     "url": "https://aws.amazon.com/glacier/"
   },
   {
+    "id": "fsxforopenzfs",
+    "name": "amazon-fsx-for-openzfs",
+    "product_name": "Amazon FSx for OpenZFS",
+    "category": "Storage",
+    "date": "2021-11-30",
+    "summary": "Fully managed storage built on the popular OpenZFS file system",
+    "url": "https://aws.amazon.com/fsx/openzfs/"
+  },
+  {
     "id": "elasticfilesystemefs",
     "name": "amazon-elastic-file-system-efs",
     "product_name": "Amazon Elastic File System (EFS)",
@@ -2106,6 +2592,15 @@
     "url": "https://aws.amazon.com/efs/"
   },
   {
+    "id": "fsxforlustre",
+    "name": "amazon-fsx-for-lustre",
+    "product_name": "Amazon FSx for Lustre",
+    "category": "Storage",
+    "date": "2018-11-28",
+    "summary": "High-performance file system integrated with S3",
+    "url": "https://aws.amazon.com/fsx/lustre/"
+  },
+  {
     "id": "elasticblockstoreebs",
     "name": "amazon-elastic-block-store-ebs",
     "product_name": "Amazon Elastic Block Store (EBS)",
@@ -2113,6 +2608,24 @@
     "date": "2008-08-20",
     "summary": "EC2 block storage volumes",
     "url": "https://aws.amazon.com/ebs/"
+  },
+  {
+    "id": "fsxforwindowsfileserver",
+    "name": "amazon-fsx-for-windows-file-server",
+    "product_name": "Amazon FSx for Windows File Server",
+    "category": "Storage",
+    "date": "2018-11-28",
+    "summary": "Fully managed Windows native file system",
+    "url": "https://aws.amazon.com/fsx/windows/"
+  },
+  {
+    "id": "backupsupportfors3",
+    "name": "aws-backup-support-for-amazon-s3",
+    "product_name": "AWS Backup support for Amazon S3 (Preview)",
+    "category": "Storage",
+    "date": "2021-11-30",
+    "summary": "Centrally manage backup and restore of app data stored in S3",
+    "url": "https://aws.amazon.com/backup/"
   },
   {
     "id": "s3",

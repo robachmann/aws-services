@@ -1,9 +1,5 @@
 [
   {
-    "py/type": "services.Service"
-  },
-  {
-    "py/object": "services.Service",
     "id": "codestar",
     "name": "aws-codestar",
     "product_name": "AWS CodeStar",
@@ -28,7 +24,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ecs",
     "name": "amazon-elastic-container-service-ecs",
     "product_name": "Amazon Elastic Container Service (ECS)",
@@ -71,7 +66,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "elasticache",
     "name": "amazon-elasticache",
     "product_name": "Amazon ElastiCache",
@@ -114,7 +108,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "glue",
     "name": "aws-glue",
     "product_name": "AWS Glue",
@@ -155,7 +148,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iot1click-projects",
     "name": "aws-iot-1-click",
     "product_name": "AWS IoT 1-Click",
@@ -174,7 +166,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "wickr",
     "name": "aws-wickr",
     "product_name": "AWS Wickr",
@@ -188,7 +179,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudsearch",
     "name": "amazon-cloudsearch",
     "product_name": "Amazon CloudSearch",
@@ -210,7 +200,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "kms",
     "name": "aws-key-management-service",
     "product_name": "AWS Key Management Service (KMS)",
@@ -253,7 +242,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "medialive",
     "name": "aws-elemental-medialive",
     "product_name": "AWS Elemental MediaLive",
@@ -279,7 +267,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "amplify",
     "name": "aws-amplify",
     "product_name": "AWS Amplify",
@@ -310,7 +297,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "backup",
     "name": "aws-backup",
     "product_name": "AWS Backup",
@@ -353,7 +339,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "deepcomposer",
     "name": "aws-deepcomposer",
     "product_name": "AWS DeepComposer",
@@ -366,7 +351,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "eventbridge",
     "name": "amazon-eventbridge",
     "product_name": "Amazon EventBridge",
@@ -409,7 +393,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lex-runtime",
     "name": "amazon-lex",
     "product_name": "Amazon Lex",
@@ -432,7 +415,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "athena",
     "name": "amazon-athena",
     "product_name": "Amazon Athena",
@@ -470,7 +452,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "deeplens",
     "name": "aws-deeplens",
     "product_name": "AWS DeepLens",
@@ -485,7 +466,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotdevicedefender",
     "name": "aws-iot-device-defender",
     "product_name": "AWS IoT Device Defender",
@@ -519,7 +499,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mgn",
     "name": "cloudendure-migration",
     "product_name": "AWS Application Migration Service (MGN)",
@@ -560,7 +539,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "neptune",
     "name": "amazon-neptune",
     "product_name": "Amazon Neptune",
@@ -595,7 +573,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "workmail",
     "name": "amazon-workmail",
     "product_name": "Amazon WorkMail",
@@ -610,7 +587,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "apprunner",
     "name": "aws-app-runner",
     "product_name": "AWS App Runner",
@@ -630,7 +606,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "connect",
     "name": "amazon-connect",
     "product_name": "Amazon Connect",
@@ -652,7 +627,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "dynamodb",
     "name": "amazon-dynamodb",
     "product_name": "Amazon DynamoDB",
@@ -695,7 +669,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotsitewise",
     "name": "aws-iot-sitewise",
     "product_name": "AWS IoT SiteWise",
@@ -720,7 +693,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mgh",
     "name": "aws-migration-hub",
     "product_name": "AWS Migration Hub",
@@ -739,7 +711,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "quicksight",
     "name": "amazon-quicksight",
     "product_name": "Amazon QuickSight",
@@ -767,7 +738,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "stepfunctions",
     "name": "aws-step-functions",
     "product_name": "AWS Step Functions",
@@ -810,7 +780,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "acm",
     "name": "aws-certificate-manager",
     "product_name": "AWS Certificate Manager",
@@ -853,7 +822,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "application-autoscaling",
     "name": "aws-auto-scaling",
     "product_name": "AWS Auto Scaling",
@@ -891,7 +859,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codecommit",
     "name": "aws-codecommit",
     "product_name": "AWS CodeCommit",
@@ -931,7 +898,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "docdb",
     "name": "amazon-documentdb-with-mongodb-compatibility",
     "product_name": "Amazon DocumentDB (with MongoDB compatibility)",
@@ -961,7 +927,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "route53",
     "name": "amazon-route-53",
     "product_name": "Amazon Route 53",
@@ -1002,7 +967,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "trustedadvisor",
     "name": "aws-trusted-advisor",
     "product_name": "AWS Trusted Advisor",
@@ -1045,7 +1009,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "workdocs",
     "name": "amazon-workdocs",
     "product_name": "Amazon WorkDocs",
@@ -1063,7 +1026,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "apigateway",
     "name": "amazon-api-gateway",
     "product_name": "Amazon API Gateway",
@@ -1106,7 +1068,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "finspace",
     "name": "amazon-finspace",
     "product_name": "Amazon FinSpace",
@@ -1123,7 +1084,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "groundstation",
     "name": "aws-ground-station",
     "product_name": "AWS Ground Station",
@@ -1147,7 +1107,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "kendra",
     "name": "amazon-kendra",
     "product_name": "Amazon Kendra",
@@ -1170,7 +1129,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mq",
     "name": "amazon-mq",
     "product_name": "Amazon MQ",
@@ -1213,7 +1171,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "simspaceweaver",
     "name": "aws-simspace-weaver",
     "product_name": "AWS SimSpace Weaver",
@@ -1235,7 +1192,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ec2",
     "name": "amazon-ec2",
     "product_name": "Amazon Elastic Compute Cloud (EC2)",
@@ -1278,7 +1234,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "shield",
     "name": "aws-shield",
     "product_name": "AWS Shield",
@@ -1317,7 +1272,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "vpn",
     "name": "aws-vpn",
     "product_name": "AWS VPN",
@@ -1358,7 +1312,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "waf",
     "name": "aws-waf",
     "product_name": "AWS WAF",
@@ -1401,7 +1354,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "wellarchitectedtool",
     "name": "aws-well-architected-tool",
     "product_name": "AWS Well-Architected Tool",
@@ -1433,7 +1385,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codebuild",
     "name": "aws-codebuild",
     "product_name": "AWS CodeBuild",
@@ -1476,7 +1427,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "compute-optimizer",
     "name": "aws-compute-optimizer",
     "product_name": "AWS Compute Optimizer",
@@ -1513,7 +1463,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "discovery",
     "name": "aws-application-discovery-service",
     "product_name": "AWS Application Discovery Service",
@@ -1532,7 +1481,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "sns",
     "name": "amazon-simple-notification-service-sns",
     "product_name": "Amazon Simple Notification Service (SNS)",
@@ -1575,7 +1523,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "verified-access",
     "name": "aws-verified-access",
     "product_name": "AWS Verified Access",
@@ -1597,7 +1544,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "amazonlocationservice",
     "name": "amazon-location",
     "product_name": "Amazon Location Service",
@@ -1622,7 +1568,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "datasync",
     "name": "aws-datasync",
     "product_name": "AWS DataSync",
@@ -1665,7 +1610,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lookoutmetrics",
     "name": "amazon-lookout-for-metrics",
     "product_name": "Amazon Lookout for Metrics",
@@ -1686,7 +1630,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mwaa",
     "name": "amazon-managed-workflows-for-apache-airflow",
     "product_name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
@@ -1715,7 +1658,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "privatelink",
     "name": "aws-privatelink",
     "product_name": "AWS PrivateLink",
@@ -1758,7 +1700,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "proton",
     "name": "aws-proton",
     "product_name": "AWS Proton",
@@ -1781,7 +1722,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "aurora",
     "name": "amazon-aurora",
     "product_name": "Amazon Aurora",
@@ -1824,7 +1764,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudhsmv2",
     "name": "aws-cloudhsm",
     "product_name": "AWS CloudHSM",
@@ -1862,7 +1801,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codeartifact",
     "name": "aws-code-artifact",
     "product_name": "AWS CodeArtifact",
@@ -1887,7 +1825,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "elastic-inference",
     "name": "amazon-elastic-inference",
     "product_name": "Amazon Elastic Inference",
@@ -1905,7 +1842,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "launchwizard",
     "name": "aws-launch-wizard",
     "product_name": "AWS Launch Wizard",
@@ -1943,7 +1879,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "managedservices",
     "name": "aws-managed-services",
     "product_name": "AWS Managed Services",
@@ -1976,7 +1911,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "transitgateway",
     "name": "aws-transit-gateway",
     "product_name": "AWS Transit Gateway",
@@ -2019,7 +1953,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "auditmanager",
     "name": "aws-audit-manager",
     "product_name": "AWS Audit Manager",
@@ -2043,7 +1976,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "chime-sdk",
     "name": "amazon-chime-sdk",
     "product_name": "Amazon Chime SDK",
@@ -2075,7 +2007,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "devicefarm",
     "name": "aws-device-farm",
     "product_name": "AWS Device Farm",
@@ -2088,7 +2019,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iam",
     "name": "aws-identity-and-access-management-iam",
     "product_name": "AWS Identity and Access Management (IAM)",
@@ -2131,7 +2061,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lookoutvision",
     "name": "amazon-lookout-for-vision",
     "product_name": "Amazon Lookout for Vision",
@@ -2150,7 +2079,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "panorama",
     "name": "aws-panorama",
     "product_name": "AWS Panorama",
@@ -2168,7 +2096,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "chatbot",
     "name": "aws-chatbot",
     "product_name": "AWS Chatbot",
@@ -2207,7 +2134,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudcontrolapi",
     "name": "aws-cloud-control-api",
     "product_name": "AWS Cloud Control API",
@@ -2250,7 +2176,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudshell",
     "name": "aws-cloudshell",
     "product_name": "AWS CloudShell",
@@ -2287,7 +2212,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "datapipeline",
     "name": "aws-data-pipeline",
     "product_name": "AWS Data Pipeline",
@@ -2304,7 +2228,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "grafana",
     "name": "amazon-managed-grafana",
     "product_name": "Amazon Managed Grafana",
@@ -2326,7 +2249,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "transcribe",
     "name": "amazon-transcribe",
     "product_name": "Amazon Transcribe",
@@ -2361,7 +2283,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "translate",
     "name": "amazon-translate",
     "product_name": "Amazon Translate",
@@ -2390,7 +2311,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "augmentedairuntime",
     "name": "amazon-augmented-ai",
     "product_name": "Amazon Augmented AI (A2I)",
@@ -2414,7 +2334,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "directconnect",
     "name": "aws-direct-connect",
     "product_name": "AWS Direct Connect",
@@ -2457,7 +2376,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lakeformation",
     "name": "aws-lake-formation",
     "product_name": "AWS Lake Formation",
@@ -2498,7 +2416,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mediapackage",
     "name": "aws-elemental-mediapackage",
     "product_name": "AWS Elemental MediaPackage",
@@ -2525,7 +2442,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "sqs",
     "name": "amazon-simple-queue-service-sqs",
     "product_name": "Amazon Simple Queue Service (SQS)",
@@ -2568,7 +2484,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "appmesh",
     "name": "aws-app-mesh",
     "product_name": "AWS App Mesh",
@@ -2604,7 +2519,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "aps",
     "name": "amazon-managed-promotheus",
     "product_name": "Amazon Managed Service for Prometheus",
@@ -2630,7 +2544,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudformation",
     "name": "aws-cloudformation",
     "product_name": "AWS CloudFormation",
@@ -2673,7 +2586,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudfront",
     "name": "amazon-cloudfront",
     "product_name": "Amazon CloudFront",
@@ -2714,7 +2626,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "elasticbeanstalk",
     "name": "aws-elastic-beanstalk",
     "product_name": "AWS Elastic Beanstalk",
@@ -2752,7 +2663,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lightsail",
     "name": "amazon-lightsail",
     "product_name": "Amazon Lightsail",
@@ -2778,7 +2688,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "rekognition",
     "name": "amazon-rekognition",
     "product_name": "Amazon Rekognition",
@@ -2804,7 +2713,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ebs",
     "name": "amazon-elastic-block-store-ebs",
     "product_name": "Amazon Elastic Block Store (EBS)",
@@ -2847,7 +2755,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "efs",
     "name": "amazon-elastic-file-system-efs",
     "product_name": "Amazon Elastic File System (EFS)",
@@ -2889,7 +2796,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "fis",
     "name": "aws-fault-injection-simulator",
     "product_name": "AWS Fault Injection Simulator",
@@ -2923,7 +2829,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "sagemaker",
     "name": "amazon-sagemaker",
     "product_name": "Amazon SageMaker",
@@ -2966,7 +2871,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudwatch",
     "name": "amazon-cloudwatch",
     "product_name": "Amazon CloudWatch",
@@ -3009,7 +2913,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "greengrass",
     "name": "aws-iot-greengrass",
     "product_name": "AWS IoT Greengrass",
@@ -3036,7 +2939,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "guardduty",
     "name": "amazon-guardduty",
     "product_name": "Amazon GuardDuty",
@@ -3079,7 +2981,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "nimble",
     "name": "amazon-nimble-studio",
     "product_name": "Amazon Nimble Studio",
@@ -3097,7 +2998,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "secretsmanager",
     "name": "aws-secrets-manager",
     "product_name": "AWS Secrets Manager",
@@ -3140,7 +3040,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "comprehend",
     "name": "amazon-comprehend",
     "product_name": "Amazon Comprehend",
@@ -3165,7 +3064,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "fsx",
     "name": "amazon-fsx",
     "product_name": "Amazon FSx",
@@ -3208,7 +3106,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "inspector2",
     "name": "amazon-inspector",
     "product_name": "Amazon Inspector",
@@ -3241,7 +3138,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mcs",
     "name": "amazon-keyspaces-for-apache-cassandra",
     "product_name": "Amazon Keyspaces (for Apache Cassandra)",
@@ -3275,7 +3171,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mediaconvert",
     "name": "aws-elemental-mediaconvert",
     "product_name": "AWS Elemental MediaConvert",
@@ -3306,7 +3201,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "s3",
     "name": "amazon-s3",
     "product_name": "Amazon Simple Storage Service (S3)",
@@ -3349,7 +3243,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "autoscaling",
     "name": "amazon-ec2-auto-scaling",
     "product_name": "Amazon EC2 Auto Scaling",
@@ -3392,7 +3285,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloudtrail",
     "name": "aws-cloudtrail",
     "product_name": "AWS CloudTrail",
@@ -3435,7 +3327,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codepipeline",
     "name": "aws-codepipeline",
     "product_name": "AWS CodePipeline",
@@ -3470,7 +3361,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "elastictranscoder",
     "name": "amazon-elastic-transcoder",
     "product_name": "Amazon Elastic Transcoder",
@@ -3490,7 +3380,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "outposts",
     "name": "aws-outposts",
     "product_name": "AWS Outposts",
@@ -3526,7 +3415,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "sagemaker-runtime",
     "name": "amazon-sagemaker",
     "product_name": "Amazon SageMaker",
@@ -3569,7 +3457,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "appstream",
     "name": "amazon-appstream-2-0",
     "product_name": "Amazon AppStream 2.0",
@@ -3596,7 +3483,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "artifact",
     "name": "aws-artifact",
     "product_name": "AWS Artifact",
@@ -3637,7 +3523,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codedeploy",
     "name": "aws-codedeploy",
     "product_name": "AWS CodeDeploy",
@@ -3680,7 +3565,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "costexplorer",
     "name": "aws-cost-explorer",
     "product_name": "AWS Cost Explorer",
@@ -3694,7 +3578,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "frauddetector",
     "name": "amazon-fraud-detector",
     "product_name": "Amazon Fraud Detector",
@@ -3712,7 +3595,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mediatailor",
     "name": "aws-elemental-mediatailor",
     "product_name": "AWS Elemental MediaTailor",
@@ -3734,7 +3616,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "serverlessrepo",
     "name": "aws-serverless-application-repository",
     "product_name": "AWS Serverless Application Repository",
@@ -3768,7 +3649,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "vpc",
     "name": "amazon-vpc",
     "product_name": "Amazon Virtual Private Cloud (VPC)",
@@ -3811,7 +3691,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cloud9",
     "name": "aws-cloud9",
     "product_name": "AWS Cloud9",
@@ -3844,7 +3723,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "devops-guru",
     "name": "amazon-devops-guru",
     "product_name": "Amazon DevOps Guru",
@@ -3872,7 +3750,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "kinesisvideo",
     "name": "amazon-kinesis-video-streams",
     "product_name": "Amazon Kinesis Video Streams",
@@ -3901,7 +3778,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "license-manager",
     "name": "aws-license-manager",
     "product_name": "AWS License Manager",
@@ -3939,7 +3815,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lumberyard",
     "name": "amazon-lumberyard",
     "product_name": "Amazon Lumberyard",
@@ -3969,7 +3844,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "personalize",
     "name": "amazon-personalize",
     "product_name": "Amazon Personalize",
@@ -3993,7 +3867,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ses",
     "name": "amazon-simple-email-service-ses",
     "product_name": "Amazon Simple Email Service (SES)",
@@ -4027,7 +3900,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "emr",
     "name": "amazon-emr",
     "product_name": "Amazon Elastic MapReduce (EMR)",
@@ -4070,7 +3942,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "workspaces",
     "name": "amazon-workspaces",
     "product_name": "Amazon WorkSpaces Family",
@@ -4098,7 +3969,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codecatalyst",
     "name": "amazon-codecatalyst",
     "product_name": "Amazon CodeCatalyst",
@@ -4111,7 +3981,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotanalytics",
     "name": "aws-iot-analytics",
     "product_name": "AWS IoT Analytics",
@@ -4132,7 +4001,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "qldb",
     "name": "amazon-quantum-ledger-database-qldb",
     "product_name": "Amazon Quantum Ledger Database (QLDB)",
@@ -4155,7 +4023,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "appsync",
     "name": "aws-appsync",
     "product_name": "AWS AppSync",
@@ -4195,7 +4062,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "fms",
     "name": "aws-firewall-manager",
     "product_name": "AWS Firewall Manager",
@@ -4238,7 +4104,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "logs",
     "name": "amazon-cloudwatch",
     "product_name": "Amazon CloudWatch Logs",
@@ -4281,7 +4146,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "network-firewall",
     "name": "aws-network-firewall",
     "product_name": "AWS Network Firewall",
@@ -4318,7 +4182,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "privatenetworks",
     "name": "aws-private-5g",
     "product_name": "AWS Private 5G",
@@ -4333,7 +4196,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "robomaker",
     "name": "aws-robomaker",
     "product_name": "AWS RoboMaker",
@@ -4353,7 +4215,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "elb",
     "name": "elastic-load-balancing-elb",
     "product_name": "Elastic Load Balancing (ELB)",
@@ -4396,7 +4257,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iot",
     "name": "aws-iot-core",
     "product_name": "AWS IoT Core",
@@ -4431,7 +4291,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lambda",
     "name": "aws-lambda",
     "product_name": "AWS Lambda",
@@ -4474,7 +4333,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mediastore",
     "name": "aws-elemental-mediastore",
     "product_name": "AWS Elemental MediaStore",
@@ -4495,7 +4353,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "omics",
     "name": "amazon-omics",
     "product_name": "Amazon Omics",
@@ -4513,7 +4370,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "rosa",
     "name": "red-hat-openshift-service-aws",
     "product_name": "Red Hat OpenShift Service on AWS (ROSA)",
@@ -4547,7 +4403,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "transfer",
     "name": "aws-transfer-family",
     "product_name": "AWS Transfer Family",
@@ -4589,7 +4444,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "xray",
     "name": "aws-x-ray",
     "product_name": "AWS X-Ray",
@@ -4632,7 +4486,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "config",
     "name": "aws-config",
     "product_name": "AWS Config",
@@ -4675,7 +4528,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ds",
     "name": "aws-directory-service",
     "product_name": "AWS Directory Service",
@@ -4718,7 +4570,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ivs",
     "name": "amazon-interactive-video-service",
     "product_name": "Amazon Interactive Video Service",
@@ -4737,7 +4588,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "managedblockchain",
     "name": "amazon-managed-blockchain",
     "product_name": "Amazon Managed Blockchain",
@@ -4756,7 +4606,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "memorydb",
     "name": "amazon-memorydb-for-redis",
     "product_name": "Amazon MemoryDB for Redis",
@@ -4788,7 +4637,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "dataexchange",
     "name": "aws-data-exchange",
     "product_name": "AWS Data Exchange",
@@ -4811,7 +4659,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "es",
     "name": "amazon-opensearch-service",
     "product_name": "Amazon OpenSearch Service",
@@ -4854,7 +4701,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "identity-center",
     "name": "aws-iam-identity-center",
     "product_name": "AWS IAM Identity Center",
@@ -4890,7 +4736,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "kafka",
     "name": "amazon-managed-streaming-for-apache-kafka",
     "product_name": "Amazon Managed Streaming for Apache Kafka (MSK)",
@@ -4933,7 +4778,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "rds",
     "name": "amazon-rds",
     "product_name": "Amazon Relational Database Service (RDS)",
@@ -4976,7 +4820,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "securitylake",
     "name": "amazon-security-lake",
     "product_name": "Amazon Security Lake",
@@ -5001,7 +4844,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cognito-identity",
     "name": "amazon-cognito",
     "product_name": "Amazon Cognito",
@@ -5033,7 +4875,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "detective",
     "name": "amazon-detective",
     "product_name": "Amazon Detective",
@@ -5067,7 +4908,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "eks",
     "name": "amazon-elastic-kubernetes-service-eks",
     "product_name": "Amazon Elastic Kubernetes Service (EKS)",
@@ -5110,7 +4950,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "gamelift",
     "name": "amazon-gamelift",
     "product_name": "Amazon GameLift",
@@ -5145,7 +4984,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "lookoutequipment",
     "name": "amazon-lookout-for-equipment",
     "product_name": "Amazon Lookout for Equipment",
@@ -5160,7 +4998,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "mediaconnect",
     "name": "aws-elemental-mediaconnect-media-services",
     "product_name": "AWS Elemental MediaConnect",
@@ -5188,7 +5025,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "verifiedpermissions",
     "name": "amazon-verified-permissions",
     "product_name": "Amazon Verified Permissions",
@@ -5227,7 +5063,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "controltower",
     "name": "aws-control-tower",
     "product_name": "AWS Control Tower",
@@ -5263,7 +5098,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ecr",
     "name": "amazon-elastic-container-registry",
     "product_name": "Amazon Elastic Container Registry (ECR)",
@@ -5306,7 +5140,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "honeycode",
     "name": "amazon-honeycode",
     "product_name": "Amazon Honeycode",
@@ -5319,7 +5152,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "macie",
     "name": "amazon-macie",
     "product_name": "Amazon Macie",
@@ -5352,7 +5184,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "monitron",
     "name": "amazon-monitron",
     "product_name": "Amazon Monitron",
@@ -5366,7 +5197,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "batch",
     "name": "aws-batch",
     "product_name": "AWS Batch",
@@ -5409,7 +5239,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "braket",
     "name": "amazon-braket",
     "product_name": "Amazon Braket",
@@ -5424,7 +5253,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "chime",
     "name": "amazon-chime",
     "product_name": "Amazon Chime",
@@ -5454,7 +5282,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotevents",
     "name": "aws-iot-events",
     "product_name": "AWS IoT Events",
@@ -5480,7 +5307,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ram",
     "name": "aws-resource-access-manager",
     "product_name": "AWS Resource Access Manager (RAM)",
@@ -5523,7 +5349,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "resiliencehub",
     "name": "aws-resilience-hub",
     "product_name": "AWS Resilience Hub",
@@ -5555,7 +5380,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "budgets",
     "name": "aws-budgets",
     "product_name": "AWS Budgets",
@@ -5584,7 +5408,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cleanrooms",
     "name": "aws-clean-rooms",
     "product_name": "AWS Clean Rooms",
@@ -5607,7 +5430,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "cur",
     "name": "aws-cost-and-usage-report",
     "product_name": "AWS Cost and Usage Report",
@@ -5621,7 +5443,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "organizations",
     "name": "aws-organizations",
     "product_name": "AWS Organizations",
@@ -5664,7 +5485,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "servicediscovery",
     "name": "aws-cloud-map",
     "product_name": "AWS Cloud Map",
@@ -5707,7 +5527,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "deepracer",
     "name": "aws-deepracer",
     "product_name": "AWS DeepRacer",
@@ -5720,7 +5539,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "forecast",
     "name": "amazon-forecast",
     "product_name": "Amazon Forecast",
@@ -5742,7 +5560,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "pinpoint",
     "name": "amazon-pinpoint",
     "product_name": "Amazon Pinpoint",
@@ -5767,7 +5584,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "storagegateway",
     "name": "aws-storage-gateway",
     "product_name": "AWS Storage Gateway",
@@ -5810,7 +5626,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "vmwarecloudonaws",
     "name": "vmware-cloud-on-aws",
     "product_name": "VMware Cloud on AWS",
@@ -5845,7 +5660,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "appflow",
     "name": "amazon-appflow",
     "product_name": "Amazon AppFlow",
@@ -5873,7 +5687,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "freertosota",
     "name": "amazon-freertos",
     "product_name": "FreeRTOS",
@@ -5905,7 +5718,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iot-roborunner",
     "name": "aws-iot-roborunner",
     "product_name": "AWS IoT RoboRunner",
@@ -5919,7 +5731,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "servicecatalog",
     "name": "aws-service-catalog",
     "product_name": "AWS Service Catalog",
@@ -5962,7 +5773,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "textract",
     "name": "amazon-textract",
     "product_name": "Amazon Textract",
@@ -5989,7 +5799,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ahl",
     "name": "amazon-healthlake",
     "product_name": "Amazon HealthLake",
@@ -6005,7 +5814,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "codeguruprofiler",
     "name": "amazon-codeguru",
     "product_name": "Amazon CodeGuru",
@@ -6027,7 +5835,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "dms",
     "name": "aws-database-migration-service",
     "product_name": "AWS Database Migration Service (DMS)",
@@ -6070,7 +5877,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "fargate",
     "name": "aws-fargate",
     "product_name": "AWS Fargate",
@@ -6112,7 +5918,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotdevicemanagement",
     "name": "aws-iot-device-management",
     "product_name": "AWS IoT Device Management",
@@ -6147,7 +5952,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iotfleetwise",
     "name": "aws-iot-fleetwise",
     "product_name": "AWS IoT FleetWise",
@@ -6161,7 +5965,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "iottwinmaker",
     "name": "aws-iot-twinmaker",
     "product_name": "AWS IoT TwinMaker",
@@ -6180,7 +5983,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "securityhub",
     "name": "aws-security-hub",
     "product_name": "AWS Security Hub",
@@ -6223,7 +6025,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "ssm",
     "name": "aws-systems-manager",
     "product_name": "AWS Systems Manager",
@@ -6266,7 +6067,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "m2",
     "name": "aws-mainframe-modernization",
     "product_name": "AWS Mainframe Modernization",
@@ -6293,7 +6093,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "redshift",
     "name": "amazon-redshift",
     "product_name": "Amazon Redshift",
@@ -6336,7 +6135,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "timestream",
     "name": "amazon-timestream",
     "product_name": "Amazon Timestream",
@@ -6356,7 +6154,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "drs",
     "name": "cloudeendure-disaster-recovery",
     "product_name": "AWS Elastic Disaster Recovery (DRS)",
@@ -6390,7 +6187,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "globalaccelerator",
     "name": "aws-global-accelerator",
     "product_name": "AWS Global Accelerator",
@@ -6426,7 +6222,6 @@
     ]
   },
   {
-    "py/object": "services.Service",
     "id": "polly",
     "name": "amazon-polly",
     "product_name": "Amazon Polly",

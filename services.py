@@ -1,7 +1,6 @@
 import json
 
 import boto3
-import jsonpickle as jsonpickle
 import requests
 
 ssm = boto3.client('ssm')
@@ -15,15 +14,13 @@ class Service:
     launch_date: str
     summary: str
     url: str
-    regions: [str]
+    regions: []
 
 
 def get_all_services():
     paginator = ssm.get_paginator('get_parameters_by_path')
 
-    response_iterator = paginator.paginate(
-        Path="/aws/service/global-infrastructure/services"
-    )
+    response_iterator = paginator.paginate(Path="/aws/service/global-infrastructure/services")
 
     parameters = []
     for page in response_iterator:
@@ -99,9 +96,7 @@ def get_services_categories() -> [Service]:
 def get_regions() -> [str]:
     paginator = ssm.get_paginator('get_parameters_by_path')
 
-    response_iterator = paginator.paginate(
-        Path=f"/aws/service/global-infrastructure/regions"
-    )
+    response_iterator = paginator.paginate(Path=f"/aws/service/global-infrastructure/regions")
 
     parameters = []
     for page in response_iterator:
@@ -150,7 +145,7 @@ def lambda_handler(event, context):
     services_categories: [Service] = get_services_categories()
     print(f"Fetching services... {len(services_categories)} services from AWS website")
 
-    merged_services = [Service]
+    merged_services = []
     for service_1 in services_ssm:
         for service_2 in services_categories:
             if service_1.product_name == service_2.product_name or service_1.url == service_2.url:
@@ -172,12 +167,13 @@ def lambda_handler(event, context):
                 service.regions = service_regions
                 merged_services.append(service)
 
-    # file_path = '/tmp/aws-services.json'
+    json_string = json.dumps([ob.__dict__ for ob in merged_services])
+
     file_path = 'aws-services.json'
     with open(file_path, 'w') as f:
-        f.write(jsonpickle.encode(merged_services))
+        f.write(json_string)
 
-    print("Done!")
+    print(f"Merged {len(merged_services)} services.")
 
     return {
         'statusCode': 200,
